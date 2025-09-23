@@ -189,7 +189,7 @@ export default function HeroSection() {
                 },
               }}
             >
-              Full Stack & App Developer | DSA/CP | AI/ML Enthusiast
+              Full Stack Web & App Developer | DSA/CP | AI/ML Enthusiast
             </Typography>
           </motion.div>
 
