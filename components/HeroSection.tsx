@@ -150,7 +150,7 @@ export default function HeroSection() {
                       WebkitTextFillColor: "transparent",
                       fontSize: { xs: "2.5rem", sm: "3.5rem", md: "4.5rem" },
                       letterSpacing: "0.02em",
-                      mx: letter === " " ? 2 : 0,
+                      mx: letter === " " ? 0.5 : 0,
                     }}
                   >
                     {letter === " " ? "\u00A0" : letter}
