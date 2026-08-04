@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planner` — v0.0.1 _(2026-08-04)_
 - `Bet-to-get` — jai _(2026-08-04)_
 - `book-store` — jai _(2026-08-04)_
 - `movie-hub` — jai _(2026-08-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planer` — jai _(2026-08-04)_
 - `runrealm` — changes _(2026-08-04)_
 - `make-my-trip` — jai _(2026-08-04)_
+- `Bet-to-get` — jai _(2026-08-04)_
 <!--END_SECTION:activity-->
