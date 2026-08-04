@@ -32,7 +32,7 @@ jobs:
           GITHUB_OWNER: ${{ github.repository_owner }}
         run: |
           set -e
-          COUNT=$(( (RANDOM % 4) + 2 )) # 2-5
+          COUNT=$(( (RANDOM % 6) + 5 )) # 5-10
           echo "Selecting $COUNT repos"
           REPOS=$(node scripts/update-readme-activity.mjs pick "$COUNT")
           if [ -z "$REPOS" ]; then

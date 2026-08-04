@@ -6,7 +6,7 @@
 const README_PATH = new URL("../README.md", import.meta.url);
 const START_MARKER = "<!--START_SECTION:activity-->";
 const END_MARKER = "<!--END_SECTION:activity-->";
-const MAX_LINES = 6;
+const MAX_LINES = 10;
 
 const owner = process.env.GITHUB_OWNER || "jaiChauhan009";
 const token = process.env.GITHUB_TOKEN;
