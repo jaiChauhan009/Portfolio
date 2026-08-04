@@ -50,3 +50,10 @@ This website serves as a digital resume and showcase of my technical expertise i
 ## About Me
 
 I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in blockchain protocols, AI/ML systems, and cloud security. This portfolio is a reflection of my journey across tech domains.
+
+---
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

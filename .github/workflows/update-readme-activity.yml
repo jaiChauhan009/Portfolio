@@ -1,0 +1,52 @@
+name: Update README Activity
+
+on:
+  schedule:
+    # 18:00 UTC = 23:30 IST, daily
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pick repos and commit activity updates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_OWNER: ${{ github.repository_owner }}
+        run: |
+          set -e
+          COUNT=$(( (RANDOM % 4) + 2 )) # 2-5
+          echo "Selecting $COUNT repos"
+          REPOS=$(node scripts/update-readme-activity.mjs pick "$COUNT")
+          if [ -z "$REPOS" ]; then
+            echo "No repos returned, nothing to do"
+            exit 0
+          fi
+          echo "$REPOS" | while IFS= read -r repo; do
+            [ -z "$repo" ] && continue
+            node scripts/update-readme-activity.mjs apply "$repo"
+            if ! git diff --quiet -- README.md; then
+              git add README.md
+              git commit -m "docs: update activity — $repo"
+            fi
+          done
+
+      - name: Push changes
+        run: git push origin HEAD:main
