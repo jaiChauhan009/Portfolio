@@ -60,4 +60,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-08-04)_
 - `Trip_Planner` — v0.0.1 _(2026-08-04)_
 - `Bet-to-get` — jai _(2026-08-04)_
+- `book-store` — jai _(2026-08-04)_
 <!--END_SECTION:activity-->
