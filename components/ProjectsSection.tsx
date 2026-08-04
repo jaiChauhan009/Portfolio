@@ -23,6 +23,24 @@ export default function ProjectsSection() {
 
   const projects: Project[] = [
     {
+      title: "FitSphere – AI Fitness Platform",
+      description:
+        "FastAPI backend exposing REST services for calorie tracking, workout planning, and deficiency analysis, integrating Gemini AI and the USDA FoodData Central API, on an async SQLAlchemy + PostgreSQL data layer with a Gunicorn/Uvicorn multi-worker deployment.",
+      technologies: ["FastAPI", "PostgreSQL", "SQLAlchemy", "Gemini AI", "Gunicorn"],
+      image: "/placeholder.svg?height=200&width=400",
+      githubUrl: "https://github.com/jaiChauhan009/fitsphere",
+      color: "#4ECDC4",
+    },
+    {
+      title: "Voting Server – Real-Time Secure Voting Platform",
+      description:
+        "Real-time voting platform on Node.js, Express, MongoDB and Redis with JWT auth and role-based access control, sustaining 1K+ concurrent WebSocket clients with zero dropped connections and sub-millisecond broadcast latency via a Redis pub/sub backplane.",
+      technologies: ["Node.js", "Express", "MongoDB", "JWT", "WebSockets", "Redis", "Docker"],
+      image: "/voting.webp?height=200&width=400",
+      githubUrl: "https://github.com/jaiChauhan009/voting_server",
+      color: "#06D6A0",
+    },
+    {
       title: "Trip Booking System",
       description:
         "Engineered a full-stack trip booking platform with optimized backend APIs, secure JWT authentication, and a dynamic user-friendly frontend.",
@@ -51,23 +69,12 @@ export default function ProjectsSection() {
       color: "#FFD166",
     },
     {
-      title: "Voting Server – Real-Time Secure Voting Platform",
-      description:
-        "Built a secure and scalable online voting system with real-time vote updates, JWT-based authentication, and integrated candidate transparency.",
-      technologies: ["Node.js", "Express", "MongoDB", "JWT", "Socket.io", "Redis", "Docker"],
-      image: "/voting.webp?height=200&width=400",  // Replace with your actual image path
-      githubUrl: "https://github.com/jaiChauhan009/voting_server",  // Update if different
-      // liveUrl: "https://your-live-demo-link.com",  // Optional: Replace if hosted
-      color: "#06D6A0",
-    },
-    {
       title: "Book Store API – Secure RESTful Backend",
       description:
         "Developed a modular and scalable backend using Golang, with JWT authentication, MySQL integration, and clean architecture principles.",
       technologies: ["Golang", "Fiber", "GORM", "MySQL", "JWT", "godotenv"],
       image: "/bookstore.webp?height=200&width=400",  // Replace with your actual image path if needed
       githubUrl: "https://github.com/jaiChauhan009/book-store",  // Update if different
-      liveUrl: "https://your-live-demo-link.com",  // Optional: Add live API/docs link if available
       color: "#FF6B6B",
     },
     {
@@ -86,7 +93,6 @@ export default function ProjectsSection() {
       ],
       image: "/chit-chat.webp?height=200&width=300",
       githubUrl: "https://github.com/jaiChauhan009/ChitChat-app",
-      liveUrl: "https://your-live-demo-link.com", // Optional
       color: "#F4A261"
     }, {
       title: "Trip Planner App with Integrated AI",
@@ -105,7 +111,6 @@ export default function ProjectsSection() {
       ],
       image: "/trip_ai.png?height=200&width=400",
       githubUrl: "https://github.com/jaiChauhan009/Trip_Planer",
-      liveUrl: "https://your-live-demo-link.com", // Optional
       color: "#2A9D8F"
     }, {
       title: "Book & Quotes Hub – Offline First Reading App",
@@ -121,7 +126,6 @@ export default function ProjectsSection() {
       ],
       image: "/book_quotes.png?height=200&width=400",
       githubUrl: "https://github.com/jaiChauhan009/Book_Quotes_Hub",
-      liveUrl: "https://your-live-demo-link.com", // Optional
       color: "#E76F51"
     }
 
@@ -174,9 +178,9 @@ export default function ProjectsSection() {
             style={{ color: theme.palette.text.secondary }}
             className="max-w-2xl mx-auto pt-3"
           >
-            A collection of my Full Stack, Golang, Spring Boot, and Android app 
-            development projects, showcasing real-world solutions in scalable 
-            APIs, secure architectures, interactive UIs, and mobile-first experiences.
+            A collection of my Full Stack, backend, and Android app development
+            projects — from an AI-powered fitness platform and a real-time
+            voting system to secure APIs and mobile-first experiences.
           </p>
         </div>
 
@@ -257,25 +261,27 @@ export default function ProjectsSection() {
                   className="p-6 pt-0 flex gap-3"
                   style={{ borderTopColor: theme.palette.divider }}
                 >
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    asChild
-                    className="hover:text-primary-foreground"
-                    style={{
-                      borderColor: project.color,
-                      color: project.color,
-                    }}
-                  >
-                    <a
-                      href={project.githubUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
+                  {project.githubUrl && (
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      asChild
+                      className="hover:text-primary-foreground"
+                      style={{
+                        borderColor: project.color,
+                        color: project.color,
+                      }}
                     >
-                      <Github className="mr-2 h-4 w-4" />
-                      Code
-                    </a>
-                  </Button>
+                      <a
+                        href={project.githubUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <Github className="mr-2 h-4 w-4" />
+                        Code
+                      </a>
+                    </Button>
+                  )}
                   {project.liveUrl && (
                     <Button
                       size="sm"

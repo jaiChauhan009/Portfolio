@@ -8,7 +8,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail, Send } from "lucide-react";
+import { Github, Linkedin, Mail, Send, Code } from "lucide-react";
 import { Box } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 
@@ -68,9 +68,15 @@ export default function ContactSection() {
       color: "#4ECDC4",
     },
     {
+      icon: <Code className="h-6 w-6" />,
+      label: "LeetCode",
+      url: "https://leetcode.com/u/jai_099/",
+      color: "#FFA116",
+    },
+    {
       icon: <Mail className="h-6 w-6" />,
       label: "Email",
-      url: "mailto:jaichauhn091@gmail.com",
+      url: "mailto:jaichauhan091@gmail.com",
       color: "#FFD166",
     },
   ];

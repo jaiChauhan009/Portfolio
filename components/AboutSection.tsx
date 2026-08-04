@@ -14,7 +14,7 @@ import {
   DialogTitle,
   Button,
 } from "@mui/material";
-import { School, Work, Cloud, Code } from "@mui/icons-material";
+import { School, Work } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import { JSX, useState } from "react";
 
@@ -36,38 +36,24 @@ export default function AboutSection() {
   const highlights: HighlightItem[] = [
     {
       icon: <Work />,
-      title: "Full Stack Developer",
-      subtitle: "Dugong Global Services",
+      title: "Software Engineer",
+      subtitle: "Kosh — YC-backed Fintech, Lending Platform",
       description:
-        "Contributed to the development of Dharitri.org with a focus on frontend architecture, multi-method authentication, and cross-team collaboration across Go, Python, and JavaScript stacks.",
-      details: `Dugong Global Services, Hyderabad  
-Full Stack Developer | JAN-2024 – Present
+        "Own the core payments engine processing 10K+ daily transactions, a double-entry ledger reconciling 50K+ transactions/day, and drove a zero-downtime monolith-to-microservices migration of 2M+ records.",
+      details: `Kosh (YC-backed Fintech, Lending Platform)
+Software Engineer | Oct 2025 – Present
 
-At Dugong Global Services, I am actively contributing to the frontend development of our main blockchain platform website: [https://www.dharitri.org](https://www.dharitri.org).
+🔹 **Payments Engine**
+Architected and own the core payments engine processing **10K+ daily transactions** across loan disbursal, EMI scheduling, and repayment, built with idempotent, fault-tolerant flows that guarantee **100% financial consistency**.
 
-🔹 **Frontend Development**  
-I built core pages and user interfaces using **Next.js 14**, **React 18**, and **Tailwind CSS**, focusing on clean UX and performance optimization. I developed secure and responsive wallet onboarding flows, integrated animations for modern UI/UX, and contributed reusable **TypeScript components** for consistency and scalability.
+🔹 **Ledger & Settlements**
+Built a **double-entry ledger** reconciling **50K+ transactions/day** with automated settlement sync, and integrated the **Easebuzz** payment gateway via webhook-driven status updates and retry handling.
 
-🔹 **Authentication System**  
-I implemented a robust authentication system using **two methods**:
-- **Email & Password login with OTP verification**
-- **Key-based login using JSON file generation at signup and parsing at login**
+🔹 **Real-Time Systems**
+Engineered a real-time chat system on **RabbitMQ over MQTT** (5K+ messages/min, sub-200ms latency), plus a **WhatsApp OTP login and notification system** that raised onboarding completion by **25%**.
 
-This dual approach improved both security and developer flexibility.
-
-🔹 **Backend & DevOps Contributions**  
-- Created **Go (Golang) APIs** for transaction data fetching and handling.
-- Participated in backend architecture and API design discussions.
-- Worked on event-driven pipelines and automation using **Python** and **Go**.
-- Collaborated with DevOps to containerize services using **Docker**, scale with **Kubernetes**, and provision infrastructure via **Terraform** and **Helm**.
-
-🔹 **Cross-Team Testing & QA**  
-Actively contributed to testing and validation efforts across the **JavaScript**, **Python**, and **Go** teams, ensuring smooth cross-service communication and stability.
-
-🔹 **CI/CD and Observability**  
-Enhanced the CI/CD process with **GitHub Actions**, and implemented logging and monitoring via **AWS CloudWatch**.
-
-My work at Dugong blends frontend innovation with secure backend engineering and infrastructure scaling, contributing directly to a cutting-edge blockchain ecosystem.`,
+🔹 **Microservices Migration**
+Drove the monolith-to-microservices migration, executing a **zero-downtime migration of 2M+ records** with no data loss and cutting average API latency from **800ms to 250ms**.`,
       color: "#FF6B6B",
     },
     {
@@ -76,54 +62,30 @@ My work at Dugong blends frontend innovation with secure backend engineering and
       subtitle: "NIT Kurukshetra (2021–2025)",
       description:
         "B.Tech in Electronics and Communication Engineering with strong foundations in CS fundamentals and hands-on experience in full-stack and mobile app development.",
-      details: `I graduated with a B.Tech in **Electronics and Communication Engineering** from **NIT Kurukshetra (2021–2025)**. While my core curriculum focused on ECE, I extensively pursued computer science subjects and self-driven development projects alongside academics.
+      details: `I graduated with a B.Tech in **Electronics and Communication Engineering** from **NIT Kurukshetra (Dec 2021 – Jun 2025)**, CGPA 7.2. While my core curriculum focused on ECE, I extensively pursued computer science subjects and self-driven development projects alongside academics.
 
-🔹 **Academic Learning & CS Foundations**  
+🔹 **Academic Learning & CS Foundations**
 Throughout my degree, I built a strong foundation in key Computer Science areas, including:
 - **Data Structures & Algorithms (DSA)**
 - **Operating Systems**
 - **Computer Networks**
 - **Database Management Systems (DBMS)**
-- Programming in **Java** and **C**
+- Programming in **C++, Java, Python, Golang**
 
-I actively practiced **competitive programming**, gaining expertise in algorithmic problem-solving.
+I actively practiced **competitive programming**, solving **500+ DSA problems** across LeetCode, CodeChef, and GeeksforGeeks, and scored **98.76 percentile in JEE Mains 2021** among 1M+ candidates.
 
-🔹 **Web Development**  
+🔹 **Web Development**
 I independently mastered **full-stack web development**, becoming proficient in both frontend and backend:
 - **Frontend:** React.js, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs, MongoDB, PostgreSQL
-I’ve worked on multiple projects, delivering production-ready applications with authentication, API integrations, and responsive design.
+- **Backend:** Node.js, Express, FastAPI, Django, REST APIs, Microservices
+I've worked on multiple projects, delivering production-ready applications with authentication, API integrations, and responsive design.
 
-🔹 **App Development**  
-I also specialized in Android and cross-platform mobile development using:
-- **Kotlin**, **Jetpack Compose**, **MVVM architecture**
-- **KMP (Kotlin Multiplatform)**
-- **Retrofit**, **Room**, and modern Android toolkits
+🔹 **Beyond Academics**
+Served as **Technical Team Vice-Captain** at the Industry and Entrepreneurship Cell, and volunteered as a **teacher at Siksha club**, providing free education and support to students.
 
-🔹 **DSA & Competitive Programming**  
-I have a strong command over DSA and regularly engage in competitive programming challenges, helping sharpen both speed and logic.
-
-My time at NIT Kurukshetra reflects a unique blend of formal engineering education and self-driven growth in computer science, software engineering, and real-world development practices.`,
+My time at NIT Kurukshetra reflects a blend of formal engineering education and self-driven growth in computer science and real-world development practices.`,
       color: "#4ECDC4",
     },
-    // {
-    //   icon: <Cloud />,
-    //   title: "Software Engineer Intern",
-    //   subtitle: "Averlon Technologies",
-    //   description:
-    //     "Worked on detection of AWS misconfigurations using Rego and Golang. Focused on EC2, IAM, and Lambda security policies.",
-    //   details: `During my internship at Averlon Technologies (Jan 2023 – Jun 2023), I worked on automating the detection of AWS misconfigurations using Rego and Golang. I began by researching common cloud security pitfalls—such as public S3 buckets, overly permissive IAM policies, and exposed RDS snapshots—and then developed a suite of policy-as-code rules using Open Policy Agent (OPA) and Rego. These rules were designed to scan AWS resource configurations and flag violations such as lack of encryption, excessive permissions, or missing security best practices. I integrated these rules into the backend scanning engine using Golang, building RESTful APIs to run evaluations and process results. This project significantly improved the organization's ability to monitor cloud security posture in real time, reduced manual effort, and laid a solid foundation for scalable security automation.`,
-    //   color: "#FFD166",
-    // },
-    // {
-    //   icon: <Code />,
-    //   title: "Full Stack AI/ML Intern",
-    //   subtitle: "Wezenite Technologies",
-    //   description:
-    //     "Built a stock prediction web app using Scikit-learn and deployed it using AWS and MongoDB. Integrated frontend with React.",
-    //   details: `From October to December 2024, I worked as a Full-Stack Developer at Wezenite Technologies, where I contributed to the development of a sentiment-driven stock analysis platform. I was actively involved in refining the frontend using React.js and Tailwind CSS, where I implemented and enhanced UI components based on Figma designs to create a seamless user experience. On the backend, I developed and tested RESTful APIs using Python, which were deployed as AWS Lambda functions and integrated via AWS API Gateway. These functions processed stock-related textual data using sentiment analysis—to generate real-time sentiment scores for individual stocks. I also handled deployment and hosting using AWS services, setting up serverless pipelines and configuring monitoring with CloudWatch. This end-to-end role gave me hands-on experience in designing UI, integrating backend logic, and deploying scalable serverless applications, while reinforcing my skills in cloud computing, API testing, and NLP-based analytics.`,
-    //   color: "#06D6A0",
-    // },
   ];
 
   const containerVariants = {
@@ -224,13 +186,13 @@ My time at NIT Kurukshetra reflects a unique blend of formal engineering educati
               fontSize: { xs: "1rem", md: "1.25rem" },
             }}
           >
-            I'm a passionate Full Stack Developer and App Developer with a strong foundation in software engineering, 
-            cybersecurity, and system design. A graduate of NIT Kurukshetra (ECE, 2021–2025), I’ve honed my skills in 
-            web development (frontend & backend), mobile app development (Kotlin, KMP, MVVM), and cloud infrastructure. 
-            From building secure, scalable applications to detecting AWS misconfigurations and contributing across tech 
-            stacks in JavaScript, Go, and Python, I strive to deliver performant and intelligent solutions. With a keen 
-            interest in AI/ML and competitive programming, I'm always exploring the intersection of innovation, 
-            performance, and security.
+            I'm a Software Engineer at Kosh, a YC-backed fintech lending platform, where I build the core payments
+            engine, ledger, and real-time systems that keep money moving reliably. A graduate of NIT Kurukshetra
+            (ECE, 2021–2025), I've built my career around backend systems, payments infrastructure, and full-stack
+            development — from fault-tolerant transaction pipelines and microservices migrations at Kosh, to
+            authentication and blockchain SDKs at Dugong Global Service. With a strong DSA/CP foundation (500+
+            problems solved) and a growing interest in AI/ML, I focus on building performant, secure, and
+            production-grade systems.
           </Typography>
         </motion.div>
 

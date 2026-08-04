@@ -1,9 +1,10 @@
 import { Suspense } from "react"
 import HeroSection from "@/components/HeroSection"
 import AboutSection from "@/components/AboutSection"
+import ExperienceSection from "@/components/ExperienceSection"
+import SkillsSection from "@/components/SkillsSection"
 import ProjectsSection from "@/components/ProjectsSection"
-import LearningSection from "@/components/LearningSection"
-import BlogsSection from "@/components/BlogsSection"
+import AchievementsSection from "@/components/AchievementsSection"
 import ContactSection from "@/components/ContactSection"
 import Navigation from "@/components/Navigation"
 import { ThemeProvider } from "@/components/ThemeProvider"
@@ -19,9 +20,10 @@ export default function Home() {
         <Suspense fallback={<Loading />}>
           <HeroSection />
           <AboutSection />
+          <ExperienceSection />
+          <SkillsSection />
           <ProjectsSection />
-          <LearningSection />
-          {/* <BlogsSection /> */}
+          <AchievementsSection />
           <ContactSection />
         </Suspense>
       </div>

@@ -6,24 +6,24 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Jai Kishan - Full Stack Developer | AWS & React Certified | Backend & App Dev Enthusiast",
+  title: "Jai Kishan - Software Engineer @ Kosh | Payments & Backend Systems",
   description:
-    "Portfolio of Jai Kishan, a dedicated Full Stack Developer with expertise in Node.js, React, Spring Boot, Golang, and app development. Certified in AWS and React, currently mastering backend frameworks and exploring AI, GenAI, and cybersecurity.",
-  keywords: "Full Stack Development, AWS, React, Spring Boot, Golang, Node.js, Kotlin, App Development, AI, Cybersecurity, Docker, Microservices, Django, Flask",
+    "Portfolio of Jai Kishan, a Software Engineer at Kosh (YC-backed fintech) building payments infrastructure, ledgers, and real-time systems. Full stack developer with experience across Node.js, FastAPI, Golang, and Android.",
+  keywords: "Software Engineer, Fintech, Payments Engineering, Backend Development, Node.js, FastAPI, Golang, System Design, Microservices, AWS, React, Kotlin",
   authors: [{ name: "Jai Kishan" }],
   openGraph: {
-    title: "Jai Kishan - Full Stack Developer | Backend & App Development | AWS & React Certified",
+    title: "Jai Kishan - Software Engineer @ Kosh | Payments & Backend Systems",
     description:
-      "Explore the portfolio of Jai Kishan — proficient in Node.js, React, Spring Boot, Golang, and Kotlin app development, with ongoing learning in AI, cybersecurity, and modern backend frameworks.",
+      "Explore the portfolio of Jai Kishan — Software Engineer at Kosh building fault-tolerant payments and ledger systems, with experience across full stack, backend, and Android development.",
     // url: "https://yourdomain.dev", // replace with your deployed portfolio domain
     siteName: "Jai Kishan Portfolio",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jai Kishan - Full Stack Dev | AWS & React Certified | Backend & App Enthusiast",
+    title: "Jai Kishan - Software Engineer @ Kosh | Payments & Backend Systems",
     description:
-      "Tech enthusiast mastering full stack, backend, app development, AI, and cybersecurity — building optimized and scalable solutions.",
+      "Software Engineer at Kosh (YC-backed fintech) building payments infrastructure, ledgers, and real-time systems.",
   },
   generator: "v0.dev",
 };

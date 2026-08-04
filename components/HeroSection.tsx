@@ -8,7 +8,7 @@ import {
   useTheme,
   IconButton,
 } from "@mui/material";
-import { Download, GitHub, LinkedIn, Email } from "@mui/icons-material";
+import { Download, GitHub, LinkedIn, Email, Code } from "@mui/icons-material";
 import { motion } from "framer-motion";
 
 export default function HeroSection() {
@@ -189,7 +189,8 @@ export default function HeroSection() {
                 },
               }}
             >
-              Full Stack Web & App Developer | DSA/CP | AI/ML Enthusiast
+              Software Engineer @ Kosh (YC-backed Fintech) | Payments &
+              Backend Systems | Full Stack Developer
             </Typography>
           </motion.div>
 
@@ -237,11 +238,7 @@ export default function HeroSection() {
               </motion.div>
 
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <a
-                  href="https://drive.google.com/file/d/1YftJRVXp_vKj5TCktRCeajBsge2oJF_7/view?usp=sharing"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
                   <Button
                     variant="outlined"
                     size="large"
@@ -313,6 +310,11 @@ export default function HeroSection() {
                   icon: <LinkedIn fontSize="large" />,
                   url: "https://www.linkedin.com/in/jai-chauhan-15b0a5238/",
                   color: "#0077B5",
+                },
+                {
+                  icon: <Code fontSize="large" />,
+                  url: "https://leetcode.com/u/jai_099/",
+                  color: "#FFA116",
                 },
                 {
                   icon: <Email fontSize="large" />,

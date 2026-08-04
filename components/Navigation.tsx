@@ -40,7 +40,7 @@ export default function Navigation() {
     handleMenuClose()
   }
 
-  const navItems = ["About", "Projects", "Learning", "Blogs", "Contact"]
+  const navItems = ["About", "Experience", "Skills", "Projects", "Achievements", "Contact"]
 
   return (
     <motion.div initial={{ y: -100 }} animate={{ y: 0 }} transition={{ duration: 0.5 }}>
