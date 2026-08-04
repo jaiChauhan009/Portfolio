@@ -56,4 +56,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+- `MutliPlayerGame` — My MESSAGE _(2026-08-04)_
 <!--END_SECTION:activity-->
