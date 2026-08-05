@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-04)_
 - `Trip-Booking` — jai _(2026-08-04)_
 - `movie-hub` — jai _(2026-08-04)_
 - `voting_server` — jai _(2026-08-05)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `jaiChauhan009` — 0.0.1 _(2026-08-05)_
 - `Book_Quotes_Hub` — jai _(2026-08-05)_
 - `fitsphere` — changes _(2026-08-05)_
+- `Trip_Planner` — v0.0.1 _(2026-08-05)_
 <!--END_SECTION:activity-->
