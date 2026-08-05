@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-08-04)_
 - `make-my-trip` — jai _(2026-08-04)_
 - `Bet-to-get` — jai _(2026-08-04)_
 - `Portfolio` — docs: update activity — go-framework _(2026-08-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-08-05)_
 - `dateapp` — Initial commit _(2026-08-05)_
 - `runrealm` — changes _(2026-08-05)_
+- `go-framework` — jai _(2026-08-05)_
 <!--END_SECTION:activity-->
