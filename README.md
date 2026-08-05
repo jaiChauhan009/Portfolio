@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Bet-to-get` — jai _(2026-08-04)_
 - `Portfolio` — docs: update activity — go-framework _(2026-08-04)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-04)_
 - `Trip-Booking` — jai _(2026-08-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-08-05)_
 - `go-framework` — jai _(2026-08-05)_
 - `jaiChauhan009` — 0.0.1 _(2026-08-05)_
+- `Book_Quotes_Hub` — jai _(2026-08-05)_
 <!--END_SECTION:activity-->
