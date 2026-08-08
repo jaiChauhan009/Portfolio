@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `make-my-trip` — jai _(2026-08-07)_
 - `TaskTracker` — 0.0.1 _(2026-08-08)_
 - `ChitChat-app` — jai _(2026-08-08)_
 - `runrealm` — changes _(2026-08-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-08-08)_
 - `movie-hub` — jai _(2026-08-08)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-08)_
+- `voting-app` — jai _(2026-08-08)_
 <!--END_SECTION:activity-->
