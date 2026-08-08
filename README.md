@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-08-07)_
 - `voting_back` — Initial commit _(2026-08-07)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-07)_
 - `OnlineTicToe` — TicToe Application _(2026-08-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-08-08)_
 - `OnlineTicToe` — TicToe Application _(2026-08-08)_
 - `go-framework` — jai _(2026-08-08)_
+- `jaiChauhan009` — 0.0.1 _(2026-08-08)_
 <!--END_SECTION:activity-->
