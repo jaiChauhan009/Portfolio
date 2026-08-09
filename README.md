@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-08-08)_
 - `OnlineTicToe` — TicToe Application _(2026-08-08)_
 - `go-framework` — jai _(2026-08-08)_
 - `jaiChauhan009` — 0.0.1 _(2026-08-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-08-08)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-09)_
 - `go-redis` — jai _(2026-08-09)_
+- `MultiPlayer_Game` — v0.0.1 _(2026-08-09)_
 <!--END_SECTION:activity-->
