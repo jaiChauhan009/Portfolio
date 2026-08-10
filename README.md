@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-08-08)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-08)_
 - `voting-app` — jai _(2026-08-08)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-09)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TaskTracker` — 0.0.1 _(2026-08-09)_
 - `dateapp` — Initial commit _(2026-08-09)_
 - `wallmart-data-anlysis` — jai _(2026-08-09)_
+- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-08-10)_
 <!--END_SECTION:activity-->
