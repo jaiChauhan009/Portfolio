@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TaskTracker` — 0.0.1 _(2026-08-10)_
 - `Chat-app` — jai _(2026-08-10)_
 - `Trip-Booking` — jai _(2026-08-10)_
 - `go-redis` — jai _(2026-08-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-08-11)_
 - `TaskTracker` — 0.0.1 _(2026-08-11)_
 - `OnlineTicToe` — TicToe Application _(2026-08-11)_
+- `go-redis` — jai _(2026-08-11)_
 <!--END_SECTION:activity-->
