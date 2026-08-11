@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-08-10)_
 - `Trip_Planner` — v0.0.1 _(2026-08-10)_
 - `TaskTracker` — 0.0.1 _(2026-08-10)_
 - `Chat-app` — jai _(2026-08-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-08-10)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-11)_
 - `runrealm` — changes _(2026-08-11)_
+- `TaskTracker` — 0.0.1 _(2026-08-11)_
 <!--END_SECTION:activity-->
