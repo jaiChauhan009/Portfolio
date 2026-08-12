@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — dateapp _(2026-08-11)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-11)_
 - `uberBooking` — Initial commit _(2026-08-11)_
 - `Trip_Planer` — jai _(2026-08-11)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `go-framework` — jai _(2026-08-12)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-08-12)_
 - `voting_server` — jai _(2026-08-12)_
+- `Weather_Application` — 0.0.1 _(2026-08-12)_
 <!--END_SECTION:activity-->
