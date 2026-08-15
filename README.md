@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TaskTracker` — 0.0.1 _(2026-08-14)_
 - `Weather_Application` — 0.0.1 _(2026-08-14)_
 - `go-framework` — jai _(2026-08-14)_
 - `voting-app` — jai _(2026-08-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Book_Quotes_Hub` — jai _(2026-08-15)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-08-15)_
 - `go-redis` — jai _(2026-08-15)_
+- `go-framework` — jai _(2026-08-15)_
 <!--END_SECTION:activity-->
