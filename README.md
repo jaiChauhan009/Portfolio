@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `book-store` — jai _(2026-08-13)_
 - `fitsphere` — changes _(2026-08-13)_
 - `dateapp` — Initial commit _(2026-08-13)_
 - `voting-app` — jai _(2026-08-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-08-14)_
 - `go-framework` — jai _(2026-08-14)_
 - `voting-app` — jai _(2026-08-14)_
+- `MakePayment` — My payment Applicaiton _(2026-08-15)_
 <!--END_SECTION:activity-->
