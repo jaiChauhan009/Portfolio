@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-08-15)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-15)_
 - `fitsphere` — changes _(2026-08-15)_
 - `flow` — Initial commit _(2026-08-16)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-08-16)_
 - `Trip_Planer` — jai _(2026-08-16)_
 - `voting-app` — jai _(2026-08-17)_
+- `Voice-translator` — jai _(2026-08-17)_
 <!--END_SECTION:activity-->
