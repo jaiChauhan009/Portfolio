@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planer` — jai _(2026-08-16)_
 - `voting-app` — jai _(2026-08-17)_
 - `Voice-translator` — jai _(2026-08-17)_
 - `go-redis` — jai _(2026-08-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_back` — Initial commit _(2026-08-18)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-18)_
 - `Chat-app` — jai _(2026-08-18)_
+- `ChitChat-app` — jai _(2026-08-18)_
 <!--END_SECTION:activity-->
