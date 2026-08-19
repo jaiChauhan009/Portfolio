@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `wallmart-data-anlysis` — jai _(2026-08-17)_
 - `TripOn` — hello _(2026-08-18)_
 - `voting_back` — Initial commit _(2026-08-18)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-08-18)_
 - `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-08-18)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-19)_
+- `voting_back` — Initial commit _(2026-08-19)_
 <!--END_SECTION:activity-->
