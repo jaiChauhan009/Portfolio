@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-08-18)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-19)_
 - `voting_back` — Initial commit _(2026-08-19)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-08-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TaskTracker` — 0.0.1 _(2026-08-19)_
 - `Voice-translator` — jai _(2026-08-19)_
 - `uberBooking` — Initial commit _(2026-08-20)_
+- `movie-hub` — jai _(2026-08-20)_
 <!--END_SECTION:activity-->
