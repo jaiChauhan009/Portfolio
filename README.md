@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-08-19)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-08-19)_
 - `flow` — Initial commit _(2026-08-19)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-08-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `uberBooking` — Initial commit _(2026-08-20)_
 - `movie-hub` — jai _(2026-08-20)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-20)_
+- `Trip_Planner` — v0.0.1 _(2026-08-20)_
 <!--END_SECTION:activity-->
