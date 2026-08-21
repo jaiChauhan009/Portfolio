@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `uberBooking` — Initial commit _(2026-08-20)_
 - `movie-hub` — jai _(2026-08-20)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-20)_
 - `Trip_Planner` — v0.0.1 _(2026-08-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-08-20)_
 - `Bet-to-get` — jai _(2026-08-20)_
 - `go-framework` — jai _(2026-08-20)_
+- `voting-app` — jai _(2026-08-21)_
 <!--END_SECTION:activity-->
