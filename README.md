@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-08-20)_
 - `Weather_Application` — 0.0.1 _(2026-08-20)_
 - `dateapp` — Initial commit _(2026-08-20)_
 - `Bet-to-get` — jai _(2026-08-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-08-21)_
 - `Voice-translator` — jai _(2026-08-21)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-21)_
+- `TaskTracker` — 0.0.1 _(2026-08-21)_
 <!--END_SECTION:activity-->
