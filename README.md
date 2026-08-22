@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MutliPlayerGame` — My MESSAGE _(2026-08-21)_
 - `TaskTracker` — 0.0.1 _(2026-08-21)_
 - `Portfolio` — docs: update activity — go-framework _(2026-08-21)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-08-22)_
 - `voting_server` — jai _(2026-08-22)_
 - `Weather_Application` — 0.0.1 _(2026-08-22)_
+- `movie-hub` — jai _(2026-08-22)_
 <!--END_SECTION:activity-->
