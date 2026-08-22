@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting-app` — jai _(2026-08-21)_
 - `wallmart-data-anlysis` — jai _(2026-08-21)_
 - `Chat-app` — jai _(2026-08-21)_
 - `Voice-translator` — jai _(2026-08-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-08-21)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-08-22)_
 - `Trip_Planer` — jai _(2026-08-22)_
+- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-22)_
 <!--END_SECTION:activity-->
