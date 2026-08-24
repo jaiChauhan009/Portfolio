@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `flow` — Initial commit _(2026-08-22)_
 - `MutliPlayerGame` — My MESSAGE _(2026-08-23)_
 - `voting-app` — jai _(2026-08-23)_
 - `Trip_Planer` — jai _(2026-08-23)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-08-23)_
 - `make-my-trip` — jai _(2026-08-23)_
 - `Chat-app` — jai _(2026-08-23)_
+- `voting-app` — jai _(2026-08-24)_
 <!--END_SECTION:activity-->
