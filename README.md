@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planer` — jai _(2026-08-24)_
 - `Chat-app` — jai _(2026-08-25)_
 - `TripOn` — hello _(2026-08-25)_
 - `Portfolio` — docs: update activity — Trip_Planer _(2026-08-25)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `uberBooking` — Initial commit _(2026-08-25)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-08-25)_
 - `voting-app` — jai _(2026-08-26)_
+- `TripOn` — hello _(2026-08-26)_
 <!--END_SECTION:activity-->
