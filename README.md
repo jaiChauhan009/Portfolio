@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planer` — jai _(2026-08-29)_
 - `voting_server` — jai _(2026-08-29)_
 - `Chat-app` — jai _(2026-08-29)_
 - `Portfolio` — docs: update activity — OnlineTicToe _(2026-08-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-08-30)_
 - `OnlineTicToe` — TicToe Application _(2026-08-30)_
 - `ChitChat-app` — jai _(2026-08-30)_
+- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-30)_
 <!--END_SECTION:activity-->
