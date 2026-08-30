@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Bet-to-get` — jai _(2026-08-29)_
 - `OnlineTicToe` — TicToe Application _(2026-08-29)_
 - `Trip_Planer` — jai _(2026-08-29)_
 - `voting_server` — jai _(2026-08-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — book-store _(2026-08-30)_
 - `uberBooking` — Initial commit _(2026-08-30)_
 - `runrealm` — changes _(2026-08-30)_
+- `OnlineTicToe` — TicToe Application _(2026-08-30)_
 <!--END_SECTION:activity-->
