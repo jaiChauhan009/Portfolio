@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-08-30)_
 - `OnlineTicToe` — TicToe Application _(2026-08-30)_
 - `ChitChat-app` — jai _(2026-08-30)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-08-30)_
 - `wallmart-data-anlysis` — jai _(2026-08-31)_
 - `dateapp` — Initial commit _(2026-08-31)_
+- `OnlineTicToe` — TicToe Application _(2026-08-31)_
 <!--END_SECTION:activity-->
