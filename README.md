@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChitChat-app` — jai _(2026-08-30)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-08-30)_
 - `flow` — Initial commit _(2026-08-30)_
 - `mx-lite-wallet` — 0.0.1 _(2026-08-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-08-31)_
 - `OnlineTicToe` — TicToe Application _(2026-08-31)_
 - `go-redis` — jai _(2026-08-31)_
+- `fitsphere` — changes _(2026-08-31)_
 <!--END_SECTION:activity-->
