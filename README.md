@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `mx-lite-wallet` — 0.0.1 _(2026-08-30)_
 - `Trip_Planner` — v0.0.1 _(2026-08-30)_
 - `voting-app` — jai _(2026-08-30)_
 - `wallmart-data-anlysis` — jai _(2026-08-31)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-08-31)_
 - `TripOn` — hello _(2026-08-31)_
 - `runrealm` — changes _(2026-08-31)_
+- `wallmart-data-anlysis` — jai _(2026-09-01)_
 <!--END_SECTION:activity-->
