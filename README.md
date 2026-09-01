@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `dateapp` — Initial commit _(2026-08-31)_
 - `OnlineTicToe` — TicToe Application _(2026-08-31)_
 - `go-redis` — jai _(2026-08-31)_
 - `fitsphere` — changes _(2026-08-31)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-09-01)_
 - `mx-lite-wallet` — 0.0.1 _(2026-09-01)_
 - `Voice-translator` — jai _(2026-09-01)_
+- `TaskTracker` — 0.0.1 _(2026-09-01)_
 <!--END_SECTION:activity-->
