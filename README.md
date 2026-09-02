@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-08-31)_
 - `runrealm` — changes _(2026-08-31)_
 - `wallmart-data-anlysis` — jai _(2026-09-01)_
 - `voting_server` — jai _(2026-09-01)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planner` — v0.0.1 _(2026-09-01)_
 - `uberBooking` — Initial commit _(2026-09-01)_
 - `ChitChat-app` — jai _(2026-09-02)_
+- `make-my-trip` — jai _(2026-09-02)_
 <!--END_SECTION:activity-->
