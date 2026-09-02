@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-09-01)_
 - `mx-lite-wallet` — 0.0.1 _(2026-09-01)_
 - `Voice-translator` — jai _(2026-09-01)_
 - `TaskTracker` — 0.0.1 _(2026-09-01)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-09-02)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-09-02)_
 - `MutliPlayerGame` — My MESSAGE _(2026-09-02)_
+- `TripOn` — hello _(2026-09-02)_
 <!--END_SECTION:activity-->
