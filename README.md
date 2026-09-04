@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `OnlineTicToe` — TicToe Application _(2026-09-03)_
 - `fitsphere` — changes _(2026-09-03)_
 - `Book_Quotes_Hub` — jai _(2026-09-03)_
 - `voting_server` — jai _(2026-09-03)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-04)_
 - `MakePayment` — My payment Applicaiton _(2026-09-04)_
 - `Chat-app` — jai _(2026-09-04)_
+- `go-framework` — jai _(2026-09-04)_
 <!--END_SECTION:activity-->
