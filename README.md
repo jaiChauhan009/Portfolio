@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-09-02)_
 - `Bet-to-get` — jai _(2026-09-02)_
 - `mx-lite-wallet` — 0.0.1 _(2026-09-03)_
 - `OnlineTicToe` — TicToe Application _(2026-09-03)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planer` — jai _(2026-09-03)_
 - `Trip_Planer` — jai _(2026-09-04)_
 - `movie-hub` — jai _(2026-09-04)_
+- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-04)_
 <!--END_SECTION:activity-->
