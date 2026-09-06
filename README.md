@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-04)_
 - `MakePayment` — My payment Applicaiton _(2026-09-04)_
 - `Chat-app` — jai _(2026-09-04)_
 - `go-framework` — jai _(2026-09-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `go-redis` — jai _(2026-09-05)_
 - `make-my-trip` — jai _(2026-09-05)_
 - `voting-app` — jai _(2026-09-06)_
+- `Bet-to-get` — jai _(2026-09-06)_
 <!--END_SECTION:activity-->
