@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Chat-app` — jai _(2026-09-04)_
 - `go-framework` — jai _(2026-09-04)_
 - `wallmart-data-anlysis` — jai _(2026-09-05)_
 - `Trip-Booking` — jai _(2026-09-05)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-09-06)_
 - `Bet-to-get` — jai _(2026-09-06)_
 - `Book_Quotes_Hub` — jai _(2026-09-06)_
+- `Trip_Planner` — v0.0.1 _(2026-09-06)_
 <!--END_SECTION:activity-->
