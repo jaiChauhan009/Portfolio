@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Chat-app` — jai _(2026-09-06)_
 - `Portfolio` — docs: update activity — make-my-trip _(2026-09-06)_
 - `voting_back` — Initial commit _(2026-09-06)_
 - `dateapp` — Initial commit _(2026-09-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TaskTracker` — 0.0.1 _(2026-09-07)_
 - `wallmart-data-anlysis` — jai _(2026-09-07)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-07)_
+- `flow` — Initial commit _(2026-09-07)_
 <!--END_SECTION:activity-->
