@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Bet-to-get` — jai _(2026-09-06)_
 - `Book_Quotes_Hub` — jai _(2026-09-06)_
 - `Trip_Planner` — v0.0.1 _(2026-09-06)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-06)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_back` — Initial commit _(2026-09-06)_
 - `dateapp` — Initial commit _(2026-09-07)_
 - `Voice-translator` — jai _(2026-09-07)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-07)_
 <!--END_SECTION:activity-->
