@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-06)_
 - `dateapp` — Initial commit _(2026-09-06)_
 - `Chat-app` — jai _(2026-09-06)_
 - `Portfolio` — docs: update activity — make-my-trip _(2026-09-06)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-07)_
 - `runrealm` — changes _(2026-09-07)_
 - `TaskTracker` — 0.0.1 _(2026-09-07)_
+- `wallmart-data-anlysis` — jai _(2026-09-07)_
 <!--END_SECTION:activity-->
