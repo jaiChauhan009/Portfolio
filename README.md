@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-09-07)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-07)_
 - `runrealm` — changes _(2026-09-07)_
 - `TaskTracker` — 0.0.1 _(2026-09-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-07)_
 - `go-framework` — jai _(2026-09-08)_
 - `make-my-trip` — jai _(2026-09-08)_
+- `MutliPlayerGame` — My MESSAGE _(2026-09-08)_
 <!--END_SECTION:activity-->
