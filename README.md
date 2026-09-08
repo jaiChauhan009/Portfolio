@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-07)_
 - `flow` — Initial commit _(2026-09-07)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-07)_
 - `go-framework` — jai _(2026-09-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-09-08)_
 - `voting_back` — Initial commit _(2026-09-08)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-08)_
+- `Book_Quotes_Hub` — jai _(2026-09-08)_
 <!--END_SECTION:activity-->
