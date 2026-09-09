@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-framework` — jai _(2026-09-08)_
 - `make-my-trip` — jai _(2026-09-08)_
 - `MutliPlayerGame` — My MESSAGE _(2026-09-08)_
 - `voting-app` — jai _(2026-09-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Book_Quotes_Hub` — jai _(2026-09-08)_
 - `wallmart-data-anlysis` — jai _(2026-09-08)_
 - `atlas_project` — gitignore: cron job logs _(2026-09-08)_
+- `flow` — Initial commit _(2026-09-09)_
 <!--END_SECTION:activity-->
