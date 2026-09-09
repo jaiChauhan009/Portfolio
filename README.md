@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting-app` — jai _(2026-09-08)_
 - `runrealm` — changes _(2026-09-08)_
 - `voting_back` — Initial commit _(2026-09-08)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `flow` — Initial commit _(2026-09-09)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-09-09)_
 - `dateapp` — Initial commit _(2026-09-09)_
+- `Book_Quotes_Hub` — jai _(2026-09-09)_
 <!--END_SECTION:activity-->
