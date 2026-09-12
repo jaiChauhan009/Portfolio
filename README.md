@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Bet-to-get` — jai _(2026-09-10)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-10)_
 - `Book_Quotes_Hub` — jai _(2026-09-11)_
 - `Voice-translator` — jai _(2026-09-11)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-09-11)_
 - `Trip_Planner` — v0.0.1 _(2026-09-12)_
 - `book-store` — jai _(2026-09-12)_
+- `MultiPlayer_Game` — v0.0.1 _(2026-09-12)_
 <!--END_SECTION:activity-->
