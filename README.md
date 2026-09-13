@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-11)_
 - `voting-app` — jai _(2026-09-11)_
 - `Trip_Planner` — v0.0.1 _(2026-09-12)_
 - `book-store` — jai _(2026-09-12)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `go-framework` — jai _(2026-09-12)_
 - `fitsphere` — changes _(2026-09-13)_
 - `voting_back` — Initial commit _(2026-09-13)_
+- `voting-app` — jai _(2026-09-13)_
 <!--END_SECTION:activity-->
