@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `wallmart-data-anlysis` — jai _(2026-09-12)_
 - `go-framework` — jai _(2026-09-12)_
 - `fitsphere` — changes _(2026-09-13)_
 - `voting_back` — Initial commit _(2026-09-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip-Booking` — jai _(2026-09-13)_
 - `voting_back` — Initial commit _(2026-09-14)_
 - `book-store` — jai _(2026-09-14)_
+- `fitsphere` — changes _(2026-09-14)_
 <!--END_SECTION:activity-->
