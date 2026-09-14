@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting-app` — jai _(2026-09-13)_
 - `TaskTracker` — 0.0.1 _(2026-09-13)_
 - `runrealm` — changes _(2026-09-13)_
 - `Trip-Booking` — jai _(2026-09-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-09-14)_
 - `OnlineTicToe` — TicToe Application _(2026-09-14)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-14)_
+- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-14)_
 <!--END_SECTION:activity-->
