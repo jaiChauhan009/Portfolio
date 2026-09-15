@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip-Booking` — jai _(2026-09-13)_
 - `voting_back` — Initial commit _(2026-09-14)_
 - `book-store` — jai _(2026-09-14)_
 - `fitsphere` — changes _(2026-09-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-14)_
 - `Trip-Booking` — jai _(2026-09-14)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-15)_
+- `Chat-app` — jai _(2026-09-15)_
 <!--END_SECTION:activity-->
