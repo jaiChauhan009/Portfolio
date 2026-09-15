@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-09-14)_
 - `Weather_Application` — 0.0.1 _(2026-09-14)_
 - `OnlineTicToe` — TicToe Application _(2026-09-14)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-09-15)_
 - `wallmart-data-anlysis` — jai _(2026-09-15)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-09-15)_
+- `atlas_project` — gitignore: cron job logs _(2026-09-15)_
 <!--END_SECTION:activity-->
