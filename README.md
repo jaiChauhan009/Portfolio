@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-14)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-14)_
 - `Trip-Booking` — jai _(2026-09-14)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-15)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `atlas_project` — gitignore: cron job logs _(2026-09-15)_
 - `go-redis` — jai _(2026-09-15)_
 - `Weather_Application` — 0.0.1 _(2026-09-15)_
+- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-15)_
 <!--END_SECTION:activity-->
