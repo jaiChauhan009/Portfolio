@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `flow` — Initial commit _(2026-09-16)_
 - `TaskTracker` — 0.0.1 _(2026-09-16)_
 - `Trip-Booking` — jai _(2026-09-16)_
 - `go-redis` — jai _(2026-09-16)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TripOn` — hello _(2026-09-17)_
 - `OnlineTicToe` — TicToe Application _(2026-09-17)_
 - `Trip_Planer` — jai _(2026-09-17)_
+- `voting-app` — jai _(2026-09-17)_
 <!--END_SECTION:activity-->
