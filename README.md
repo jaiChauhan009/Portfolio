@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Weather_Application` — 0.0.1 _(2026-09-16)_
 - `wallmart-data-anlysis` — jai _(2026-09-16)_
 - `runrealm` — changes _(2026-09-16)_
 - `flow` — Initial commit _(2026-09-16)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-09-17)_
 - `fitsphere` — changes _(2026-09-17)_
 - `Portfolio` — docs: update activity — go-redis _(2026-09-17)_
+- `TripOn` — hello _(2026-09-17)_
 <!--END_SECTION:activity-->
