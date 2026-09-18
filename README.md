@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-09-17)_
 - `Portfolio` — docs: update activity — go-redis _(2026-09-17)_
 - `TripOn` — hello _(2026-09-17)_
 - `OnlineTicToe` — TicToe Application _(2026-09-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-09-18)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-18)_
 - `TaskTracker` — 0.0.1 _(2026-09-18)_
+- `atlas_project` — gitignore: cron job logs _(2026-09-18)_
 <!--END_SECTION:activity-->
