@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-18)_
 - `TaskTracker` — 0.0.1 _(2026-09-18)_
 - `atlas_project` — gitignore: cron job logs _(2026-09-18)_
 - `wallmart-data-anlysis` — jai _(2026-09-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-09-19)_
 - `voting_server` — jai _(2026-09-19)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-19)_
+- `wallmart-data-anlysis` — jai _(2026-09-19)_
 <!--END_SECTION:activity-->
