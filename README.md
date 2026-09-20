@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `atlas_project` — gitignore: cron job logs _(2026-09-18)_
 - `wallmart-data-anlysis` — jai _(2026-09-18)_
 - `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-09-19)_
 - `movie-hub` — jai _(2026-09-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-19)_
 - `wallmart-data-anlysis` — jai _(2026-09-19)_
 - `Trip_Planer` — jai _(2026-09-19)_
+- `wallmart-data-anlysis` — jai _(2026-09-20)_
 <!--END_SECTION:activity-->
