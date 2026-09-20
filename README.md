@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-09-19)_
 - `movie-hub` — jai _(2026-09-19)_
 - `flow` — Initial commit _(2026-09-19)_
 - `Chat-app` — jai _(2026-09-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planer` — jai _(2026-09-19)_
 - `wallmart-data-anlysis` — jai _(2026-09-20)_
 - `uberBooking` — Initial commit _(2026-09-20)_
+- `flow` — Initial commit _(2026-09-20)_
 <!--END_SECTION:activity-->
