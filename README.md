@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `uberBooking` — Initial commit _(2026-09-20)_
 - `flow` — Initial commit _(2026-09-20)_
 - `go-redis` — jai _(2026-09-20)_
 - `voting-app` — jai _(2026-09-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-09-21)_
 - `Portfolio` — docs: update activity — ChatApplication _(2026-09-21)_
 - `fitsphere` — changes _(2026-09-21)_
+- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-21)_
 <!--END_SECTION:activity-->
