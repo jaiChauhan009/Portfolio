@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-redis` — jai _(2026-09-20)_
 - `voting-app` — jai _(2026-09-20)_
 - `TaskTracker` — 0.0.1 _(2026-09-20)_
 - `movie-hub` — jai _(2026-09-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-09-21)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-21)_
 - `movie-hub` — jai _(2026-09-21)_
+- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-21)_
 <!--END_SECTION:activity-->
