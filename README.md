@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planner` — v0.0.1 _(2026-09-21)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-21)_
 - `Book_Quotes_Hub` — jai _(2026-09-21)_
 - `mx-lite-wallet` — 0.0.1 _(2026-09-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-09-22)_
 - `Voice-translator` — jai _(2026-09-22)_
 - `MakePayment` — My payment Applicaiton _(2026-09-22)_
+- `movie-hub` — jai _(2026-09-22)_
 <!--END_SECTION:activity-->
