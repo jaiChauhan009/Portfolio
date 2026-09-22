@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-21)_
 - `movie-hub` — jai _(2026-09-21)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-21)_
 - `Trip_Planner` — v0.0.1 _(2026-09-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `wallmart-data-anlysis` — jai _(2026-09-22)_
 - `go-framework` — jai _(2026-09-22)_
 - `Trip-Booking` — jai _(2026-09-22)_
+- `make-my-trip` — jai _(2026-09-22)_
 <!--END_SECTION:activity-->
