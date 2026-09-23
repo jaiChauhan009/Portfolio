@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-09-22)_
 - `Bet-to-get` — jai _(2026-09-22)_
 - `Portfolio` — docs: update activity — mx-lite-wallet _(2026-09-22)_
 - `Weather_Application` — 0.0.1 _(2026-09-22)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_back` — Initial commit _(2026-09-23)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-23)_
 - `wallmart-data-anlysis` — jai _(2026-09-23)_
+- `voting-app` — jai _(2026-09-23)_
 <!--END_SECTION:activity-->
