@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-09-22)_
 - `MakePayment` — My payment Applicaiton _(2026-09-22)_
 - `movie-hub` — jai _(2026-09-22)_
 - `Bet-to-get` — jai _(2026-09-22)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `atlas_project` — gitignore: cron job logs _(2026-09-23)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-23)_
 - `voting_back` — Initial commit _(2026-09-23)_
+- `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-23)_
 <!--END_SECTION:activity-->
