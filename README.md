@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-23)_
 - `wallmart-data-anlysis` — jai _(2026-09-23)_
 - `voting-app` — jai _(2026-09-23)_
 - `Portfolio` — docs: update activity — voting-app _(2026-09-24)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-24)_
 - `fitsphere` — changes _(2026-09-25)_
 - `movie-hub` — jai _(2026-09-25)_
+- `Trip-Booking` — jai _(2026-09-25)_
 <!--END_SECTION:activity-->
