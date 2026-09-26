@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `book-store` — jai _(2026-09-24)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-24)_
 - `fitsphere` — changes _(2026-09-25)_
 - `movie-hub` — jai _(2026-09-25)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip-Booking` — jai _(2026-09-26)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-26)_
 - `Voice-translator` — jai _(2026-09-26)_
+- `OnlineTicToe` — TicToe Application _(2026-09-26)_
 <!--END_SECTION:activity-->
