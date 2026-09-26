@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-24)_
 - `uberBooking` — Initial commit _(2026-09-24)_
 - `book-store` — jai _(2026-09-24)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-09-24)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MultiPlayer_Game` — v0.0.1 _(2026-09-25)_
 - `ChitChat-app` — jai _(2026-09-25)_
 - `Trip-Booking` — jai _(2026-09-26)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-26)_
 <!--END_SECTION:activity-->
