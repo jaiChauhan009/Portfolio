@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MultiPlayer_Game` — v0.0.1 _(2026-09-25)_
 - `ChitChat-app` — jai _(2026-09-25)_
 - `Trip-Booking` — jai _(2026-09-26)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-09-27)_
 - `go-framework` — jai _(2026-09-27)_
 - `ChitChat-app` — jai _(2026-09-27)_
+- `movie-hub` — jai _(2026-09-27)_
 <!--END_SECTION:activity-->
