@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip-Booking` — jai _(2026-09-26)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-09-26)_
 - `Voice-translator` — jai _(2026-09-26)_
 - `OnlineTicToe` — TicToe Application _(2026-09-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChitChat-app` — jai _(2026-09-27)_
 - `movie-hub` — jai _(2026-09-27)_
 - `atlas_project` — gitignore: cron job logs _(2026-09-27)_
+- `book-store` — jai _(2026-09-27)_
 <!--END_SECTION:activity-->
