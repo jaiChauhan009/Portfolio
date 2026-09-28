@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-framework` — jai _(2026-09-27)_
 - `ChitChat-app` — jai _(2026-09-27)_
 - `movie-hub` — jai _(2026-09-27)_
 - `atlas_project` — gitignore: cron job logs _(2026-09-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-09-28)_
 - `Voice-translator` — jai _(2026-09-28)_
 - `movie-hub` — jai _(2026-09-28)_
+- `wallmart-data-anlysis` — jai _(2026-09-28)_
 <!--END_SECTION:activity-->
