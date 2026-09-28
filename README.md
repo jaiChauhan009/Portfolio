@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-09-26)_
 - `fitsphere` — changes _(2026-09-27)_
 - `go-framework` — jai _(2026-09-27)_
 - `ChitChat-app` — jai _(2026-09-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-09-28)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-28)_
 - `runrealm` — changes _(2026-09-28)_
+- `Voice-translator` — jai _(2026-09-28)_
 <!--END_SECTION:activity-->
