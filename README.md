@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `book-store` — jai _(2026-09-27)_
 - `mx-lite-wallet` — 0.0.1 _(2026-09-28)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-28)_
 - `runrealm` — changes _(2026-09-28)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planer` — jai _(2026-09-28)_
 - `voting-app` — jai _(2026-09-28)_
 - `movie-hub` — jai _(2026-09-29)_
+- `atlas_project` — gitignore: cron job logs _(2026-09-29)_
 <!--END_SECTION:activity-->
