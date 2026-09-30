@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-09-29)_
 - `TripOn` — hello _(2026-09-29)_
 - `voting_back` — Initial commit _(2026-09-29)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `OnlineTicToe` — TicToe Application _(2026-09-30)_
 - `Portfolio` — docs: update activity — java_test _(2026-09-30)_
 - `dateapp` — Initial commit _(2026-09-30)_
+- `go-framework` — jai _(2026-09-30)_
 <!--END_SECTION:activity-->
