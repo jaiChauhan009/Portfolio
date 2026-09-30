@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-09-29)_
 - `voting_back` — Initial commit _(2026-09-29)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-09-29)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — java_test _(2026-09-30)_
 - `dateapp` — Initial commit _(2026-09-30)_
 - `go-framework` — jai _(2026-09-30)_
+- `TaskTracker` — 0.0.1 _(2026-09-30)_
 <!--END_SECTION:activity-->
