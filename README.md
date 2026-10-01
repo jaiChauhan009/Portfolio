@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TaskTracker` — 0.0.1 _(2026-09-30)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-30)_
 - `fitsphere` — changes _(2026-09-30)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planner` — v0.0.1 _(2026-10-01)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-01)_
 - `Voice-translator` — jai _(2026-10-01)_
+- `dateapp` — Initial commit _(2026-10-01)_
 <!--END_SECTION:activity-->
