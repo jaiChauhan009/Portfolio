@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MakePayment` — My payment Applicaiton _(2026-09-30)_
 - `OnlineTicToe` — TicToe Application _(2026-09-30)_
 - `Portfolio` — docs: update activity — java_test _(2026-09-30)_
 - `dateapp` — Initial commit _(2026-09-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-09-30)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-30)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-01)_
+- `MultiPlayer_Game` — v0.0.1 _(2026-10-01)_
 <!--END_SECTION:activity-->
