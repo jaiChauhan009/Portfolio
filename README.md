@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `dateapp` — Initial commit _(2026-09-30)_
 - `go-framework` — jai _(2026-09-30)_
 - `TaskTracker` — 0.0.1 _(2026-09-30)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-09-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MultiPlayer_Game` — v0.0.1 _(2026-10-01)_
 - `uberBooking` — Initial commit _(2026-10-01)_
 - `Trip_Planner` — v0.0.1 _(2026-10-01)_
+- `atlas_project` — gitignore: cron job logs _(2026-10-01)_
 <!--END_SECTION:activity-->
