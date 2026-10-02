@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-09-30)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-01)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-10-01)_
 - `uberBooking` — Initial commit _(2026-10-01)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-10-01)_
 - `roomscan` — Tech report: fix-loop round 4 summary _(2026-10-02)_
 - `make-my-trip` — jai _(2026-10-02)_
+- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-02)_
 <!--END_SECTION:activity-->
