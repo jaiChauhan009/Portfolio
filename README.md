@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — dateapp _(2026-10-02)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-10-02)_
 - `runrealm` — changes _(2026-10-02)_
 - `Bet-to-get` — jai _(2026-10-02)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-10-03)_
 - `Trip-Booking` — jai _(2026-10-03)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-03)_
+- `MultiPlayer_Game` — v0.0.1 _(2026-10-03)_
 <!--END_SECTION:activity-->
