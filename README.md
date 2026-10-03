@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-10-02)_
 - `Bet-to-get` — jai _(2026-10-02)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-02)_
 - `movie-hub` — jai _(2026-10-03)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-03)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-10-03)_
 - `flow` — Initial commit _(2026-10-03)_
+- `make-my-trip` — jai _(2026-10-03)_
 <!--END_SECTION:activity-->
