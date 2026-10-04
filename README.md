@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-10-03)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-10-04)_
 - `Voice-translator` — jai _(2026-10-04)_
 - `runrealm` — changes _(2026-10-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-04)_
 - `go-redis` — jai _(2026-10-04)_
 - `dateapp` — Initial commit _(2026-10-04)_
+- `Trip_Planer` — jai _(2026-10-04)_
 <!--END_SECTION:activity-->
