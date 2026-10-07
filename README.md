@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `flow` — Initial commit _(2026-10-06)_
 - `Trip_Planner` — v0.0.1 _(2026-10-06)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-06)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planner` — v0.0.1 _(2026-10-07)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-07)_
 - `TripOn` — hello _(2026-10-07)_
+- `wallmart-data-anlysis` — jai _(2026-10-07)_
 <!--END_SECTION:activity-->
