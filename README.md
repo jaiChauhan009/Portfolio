@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-06)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-07)_
 - `Book_Quotes_Hub` — jai _(2026-10-07)_
 - `fitsphere` — changes _(2026-10-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TripOn` — hello _(2026-10-07)_
 - `wallmart-data-anlysis` — jai _(2026-10-07)_
 - `dateapp` — Initial commit _(2026-10-08)_
+- `Voice-translator` — jai _(2026-10-08)_
 <!--END_SECTION:activity-->
