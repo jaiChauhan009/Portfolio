@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Book_Quotes_Hub` — jai _(2026-10-07)_
 - `fitsphere` — changes _(2026-10-07)_
 - `ChitChat-app` — jai _(2026-10-07)_
 - `Trip_Planner` — v0.0.1 _(2026-10-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-10-08)_
 - `Voice-translator` — jai _(2026-10-08)_
 - `runrealm` — changes _(2026-10-08)_
+- `movie-hub` — jai _(2026-10-08)_
 <!--END_SECTION:activity-->
