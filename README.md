@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-10-08)_
 - `movie-hub` — jai _(2026-10-08)_
 - `voting_server` — jai _(2026-10-08)_
 - `Chat-app` — jai _(2026-10-09)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-10-09)_
 - `Weather_Application` — 0.0.1 _(2026-10-09)_
 - `voting-app` — jai _(2026-10-09)_
+- `asset-checkout-service` — Remove recording note from known gaps _(2026-10-09)_
 <!--END_SECTION:activity-->
