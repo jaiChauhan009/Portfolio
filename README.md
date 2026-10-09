@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MutliPlayerGame` — My MESSAGE _(2026-10-07)_
 - `TripOn` — hello _(2026-10-07)_
 - `wallmart-data-anlysis` — jai _(2026-10-07)_
 - `dateapp` — Initial commit _(2026-10-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-10-08)_
 - `Chat-app` — jai _(2026-10-09)_
 - `OnlineTicToe` — TicToe Application _(2026-10-09)_
+- `Voice-translator` — jai _(2026-10-09)_
 <!--END_SECTION:activity-->
