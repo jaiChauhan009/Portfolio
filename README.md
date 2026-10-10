@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Weather_Application` — 0.0.1 _(2026-10-09)_
 - `voting-app` — jai _(2026-10-09)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-09)_
 - `ChitChat-app` — jai _(2026-10-09)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — ChitChat-app _(2026-10-10)_
 - `voting_server` — jai _(2026-10-10)_
 - `Trip_Planner` — v0.0.1 _(2026-10-10)_
+- `Trip-Booking` — jai _(2026-10-10)_
 <!--END_SECTION:activity-->
