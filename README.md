@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-10-10)_
 - `Trip_Planner` — v0.0.1 _(2026-10-10)_
 - `Trip-Booking` — jai _(2026-10-10)_
 - `book-store` — jai _(2026-10-11)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TripOn` — hello _(2026-10-11)_
 - `flow` — Initial commit _(2026-10-11)_
 - `wallmart-data-anlysis` — jai _(2026-10-11)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-11)_
 <!--END_SECTION:activity-->
