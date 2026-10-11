@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `asset-checkout-service` — Remove recording note from known gaps _(2026-10-10)_
 - `flow` — Initial commit _(2026-10-10)_
 - `Portfolio` — docs: update activity — ChitChat-app _(2026-10-10)_
 - `voting_server` — jai _(2026-10-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TaskTracker` — 0.0.1 _(2026-10-11)_
 - `runrealm` — changes _(2026-10-11)_
 - `Trip_Planer` — jai _(2026-10-11)_
+- `TripOn` — hello _(2026-10-11)_
 <!--END_SECTION:activity-->
