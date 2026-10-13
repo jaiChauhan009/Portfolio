@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `atlas_project` — gitignore: cron job logs _(2026-10-13)_
 - `OnlineTicToe` — TicToe Application _(2026-10-13)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-13)_
 - `fitsphere` — changes _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Aggroso_assesment` — feat: add dynamic Add Mapping and Delete Mapping buttons in Mapping Editor _(2026-10-13)_
 - `go-framework` — jai _(2026-10-13)_
 - `Portfolio` — docs: update activity — MakePayment _(2026-10-13)_
+- `Voice-translator` — jai _(2026-10-13)_
 <!--END_SECTION:activity-->
