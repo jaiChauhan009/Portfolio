@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TaskTracker` — 0.0.1 _(2026-10-11)_
 - `runrealm` — changes _(2026-10-11)_
 - `Trip_Planer` — jai _(2026-10-11)_
 - `TripOn` — hello _(2026-10-11)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MutliPlayerGame` — My MESSAGE _(2026-10-11)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-11)_
 - `movie-hub` — jai _(2026-10-13)_
+- `book-store` — jai _(2026-10-13)_
 <!--END_SECTION:activity-->
