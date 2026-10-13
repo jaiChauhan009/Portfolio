@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-10-13)_
 - `book-store` — jai _(2026-10-13)_
 - `Chat-app` — jai _(2026-10-13)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-10-13)_
 - `MakePayment` — My payment Applicaiton _(2026-10-13)_
 - `voting_server` — jai _(2026-10-13)_
+- `Aggroso_assesment` — feat: add dynamic Add Mapping and Delete Mapping buttons in Mapping Editor _(2026-10-13)_
 <!--END_SECTION:activity-->
