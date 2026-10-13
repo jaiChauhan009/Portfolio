@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planer` — jai _(2026-10-11)_
 - `TripOn` — hello _(2026-10-11)_
 - `flow` — Initial commit _(2026-10-11)_
 - `wallmart-data-anlysis` — jai _(2026-10-11)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `movie-hub` — jai _(2026-10-13)_
 - `book-store` — jai _(2026-10-13)_
 - `Chat-app` — jai _(2026-10-13)_
+- `atlas_project` — gitignore: cron job logs _(2026-10-13)_
 <!--END_SECTION:activity-->
