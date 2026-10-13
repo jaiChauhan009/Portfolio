@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-11)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-11)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-11)_
 - `movie-hub` — jai _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `OnlineTicToe` — TicToe Application _(2026-10-13)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-13)_
 - `fitsphere` — changes _(2026-10-13)_
+- `voting_server` — jai _(2026-10-13)_
 <!--END_SECTION:activity-->
