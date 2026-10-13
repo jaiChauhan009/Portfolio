@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-13)_
 - `fitsphere` — changes _(2026-10-13)_
 - `voting_server` — jai _(2026-10-13)_
 - `MakePayment` — My payment Applicaiton _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — MakePayment _(2026-10-13)_
 - `Voice-translator` — jai _(2026-10-13)_
 - `dateapp` — Initial commit _(2026-10-13)_
+- `asset-checkout-service` — Remove recording note from known gaps _(2026-10-13)_
 <!--END_SECTION:activity-->
