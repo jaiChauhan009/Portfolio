@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-10-13)_
 - `MakePayment` — My payment Applicaiton _(2026-10-13)_
 - `voting_server` — jai _(2026-10-13)_
 - `Aggroso_assesment` — feat: add dynamic Add Mapping and Delete Mapping buttons in Mapping Editor _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-10-13)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-13)_
 - `flow` — Initial commit _(2026-10-13)_
+- `voting_back` — Initial commit _(2026-10-14)_
 <!--END_SECTION:activity-->
