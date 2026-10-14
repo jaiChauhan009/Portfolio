@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-framework` — jai _(2026-10-13)_
 - `Portfolio` — docs: update activity — MakePayment _(2026-10-13)_
 - `Voice-translator` — jai _(2026-10-13)_
 - `dateapp` — Initial commit _(2026-10-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-14)_
 - `voting_server` — jai _(2026-10-14)_
 - `Book_Quotes_Hub` — jai _(2026-10-14)_
+- `make-my-trip` — jai _(2026-10-14)_
 <!--END_SECTION:activity-->
