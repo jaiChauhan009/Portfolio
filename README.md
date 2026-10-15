@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-14)_
 - `voting_server` — jai _(2026-10-14)_
 - `Book_Quotes_Hub` — jai _(2026-10-14)_
 - `make-my-trip` — jai _(2026-10-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MutliPlayerGame` — My MESSAGE _(2026-10-15)_
 - `Trip_Planer` — jai _(2026-10-15)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-15)_
+- `go-framework` — jai _(2026-10-15)_
 <!--END_SECTION:activity-->
