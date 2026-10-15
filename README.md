@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `dateapp` — Initial commit _(2026-10-13)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-13)_
 - `flow` — Initial commit _(2026-10-13)_
 - `voting_back` — Initial commit _(2026-10-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-10-14)_
 - `uberBooking` — Initial commit _(2026-10-15)_
 - `Trip-Booking` — jai _(2026-10-15)_
+- `Portfolio` — docs: update activity — make-my-trip _(2026-10-15)_
 <!--END_SECTION:activity-->
