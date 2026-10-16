@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `wallmart-data-anlysis` — jai _(2026-10-15)_
 - `MakePayment` — My payment Applicaiton _(2026-10-15)_
 - `Trip_Planner` — v0.0.1 _(2026-10-15)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-16)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-10-16)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-16)_
 - `Portfolio` — docs: update activity — Trip_Planner _(2026-10-16)_
+- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-16)_
 <!--END_SECTION:activity-->
