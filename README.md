@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip-Booking` — jai _(2026-10-15)_
 - `Portfolio` — docs: update activity — make-my-trip _(2026-10-15)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-15)_
 - `Trip_Planer` — jai _(2026-10-15)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MakePayment` — My payment Applicaiton _(2026-10-15)_
 - `Trip_Planner` — v0.0.1 _(2026-10-15)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-16)_
+- `Trip-Booking` — jai _(2026-10-16)_
 <!--END_SECTION:activity-->
