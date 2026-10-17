@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `atlas_project` — gitignore: cron job logs _(2026-10-16)_
 - `Trip-Booking` — jai _(2026-10-16)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-16)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-16)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-16)_
 - `runrealm` — changes _(2026-10-16)_
 - `book-store` — jai _(2026-10-16)_
+- `go-framework` — jai _(2026-10-17)_
 <!--END_SECTION:activity-->
