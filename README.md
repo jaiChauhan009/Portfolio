@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-10-16)_
 - `book-store` — jai _(2026-10-16)_
 - `go-framework` — jai _(2026-10-17)_
 - `wallmart-data-anlysis` — jai _(2026-10-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Bet-to-get` — jai _(2026-10-17)_
 - `uberBooking` — Initial commit _(2026-10-17)_
 - `movie-hub` — jai _(2026-10-17)_
+- `asset-checkout-service` — Remove recording note from known gaps _(2026-10-17)_
 <!--END_SECTION:activity-->
