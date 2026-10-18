@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `wallmart-data-anlysis` — jai _(2026-10-17)_
 - `Trip-Booking` — jai _(2026-10-17)_
 - `Portfolio` — docs: update activity — book-store _(2026-10-17)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-17)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-17)_
 - `voting_server` — jai _(2026-10-18)_
+- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-18)_
 <!--END_SECTION:activity-->
