@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-10-18)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-18)_
 - `TripOn` — hello _(2026-10-18)_
 - `movie-hub` — jai _(2026-10-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-10-18)_
 - `Portfolio` — docs: update activity — Aggroso_assesment _(2026-10-18)_
 - `Bet-to-get` — jai _(2026-10-19)_
+- `mx-lite-wallet` — 0.0.1 _(2026-10-19)_
 <!--END_SECTION:activity-->
