@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-10-18)_
 - `movie-hub` — jai _(2026-10-18)_
 - `go-redis` — jai _(2026-10-18)_
 - `voting-app` — jai _(2026-10-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Bet-to-get` — jai _(2026-10-19)_
 - `mx-lite-wallet` — 0.0.1 _(2026-10-19)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-19)_
+- `OnlineTicToe` — TicToe Application _(2026-10-19)_
 <!--END_SECTION:activity-->
