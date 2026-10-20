@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MakePayment` — My payment Applicaiton _(2026-10-19)_
 - `Weather_Application` — 0.0.1 _(2026-10-19)_
 - `go-framework` — jai _(2026-10-20)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-10-20)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-20)_
 - `Trip_Planner` — v0.0.1 _(2026-10-20)_
+- `wallmart-data-anlysis` — jai _(2026-10-20)_
 <!--END_SECTION:activity-->
