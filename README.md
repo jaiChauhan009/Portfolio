@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `mx-lite-wallet` — 0.0.1 _(2026-10-19)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-19)_
 - `OnlineTicToe` — TicToe Application _(2026-10-19)_
 - `MakePayment` — My payment Applicaiton _(2026-10-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-20)_
 - `ChitChat-app` — jai _(2026-10-20)_
 - `TripOn` — hello _(2026-10-20)_
+- `make-my-trip` — jai _(2026-10-20)_
 <!--END_SECTION:activity-->
