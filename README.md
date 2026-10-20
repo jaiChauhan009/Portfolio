@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting-app` — jai _(2026-10-18)_
 - `voting_back` — Initial commit _(2026-10-18)_
 - `Chat-app` — jai _(2026-10-18)_
 - `Portfolio` — docs: update activity — Aggroso_assesment _(2026-10-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `OnlineTicToe` — TicToe Application _(2026-10-19)_
 - `MakePayment` — My payment Applicaiton _(2026-10-19)_
 - `Weather_Application` — 0.0.1 _(2026-10-19)_
+- `go-framework` — jai _(2026-10-20)_
 <!--END_SECTION:activity-->
