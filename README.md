@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-19)_
 - `OnlineTicToe` — TicToe Application _(2026-10-19)_
 - `MakePayment` — My payment Applicaiton _(2026-10-19)_
 - `Weather_Application` — 0.0.1 _(2026-10-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChitChat-app` — jai _(2026-10-20)_
 - `TripOn` — hello _(2026-10-20)_
 - `make-my-trip` — jai _(2026-10-20)_
+- `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-20)_
 <!--END_SECTION:activity-->
