@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-20)_
 - `ChitChat-app` — jai _(2026-10-20)_
 - `TripOn` — hello _(2026-10-20)_
 - `make-my-trip` — jai _(2026-10-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `movie-hub` — jai _(2026-10-21)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-21)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-21)_
+- `OnlineTicToe` — TicToe Application _(2026-10-21)_
 <!--END_SECTION:activity-->
