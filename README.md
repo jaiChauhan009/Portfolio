@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-10-21)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-21)_
 - `atlas_project` — gitignore: cron job logs _(2026-10-21)_
 - `OnlineTicToe` — TicToe Application _(2026-10-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-10-21)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-21)_
 - `dateapp` — Initial commit _(2026-10-22)_
+- `Portfolio` — docs: update activity — MutliPlayerGame _(2026-10-22)_
 <!--END_SECTION:activity-->
