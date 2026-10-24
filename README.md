@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-10-23)_
 - `make-my-trip` — jai _(2026-10-24)_
 - `flow` — Initial commit _(2026-10-24)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-24)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `TripOn` — hello _(2026-10-24)_
 - `Weather_Application` — 0.0.1 _(2026-10-24)_
 - `MakePayment` — My payment Applicaiton _(2026-10-24)_
+- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-24)_
 <!--END_SECTION:activity-->
