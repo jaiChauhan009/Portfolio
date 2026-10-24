@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `make-my-trip` — jai _(2026-10-23)_
 - `uberBooking` — Initial commit _(2026-10-23)_
 - `mx-lite-wallet` — 0.0.1 _(2026-10-23)_
 - `TripOn` — hello _(2026-10-23)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-10-24)_
 - `Book_Quotes_Hub` — jai _(2026-10-24)_
 - `go-redis` — jai _(2026-10-24)_
+- `TripOn` — hello _(2026-10-24)_
 <!--END_SECTION:activity-->
