@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-redis` — jai _(2026-10-24)_
 - `TripOn` — hello _(2026-10-24)_
 - `Weather_Application` — 0.0.1 _(2026-10-24)_
 - `MakePayment` — My payment Applicaiton _(2026-10-24)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `wallmart-data-anlysis` — jai _(2026-10-25)_
 - `Trip_Planner` — v0.0.1 _(2026-10-25)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-25)_
+- `Trip-Booking` — jai _(2026-10-25)_
 <!--END_SECTION:activity-->
