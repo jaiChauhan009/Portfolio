@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `wallmart-data-anlysis` — jai _(2026-10-25)_
 - `Trip_Planner` — v0.0.1 _(2026-10-25)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-25)_
 - `Trip-Booking` — jai _(2026-10-25)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-26)_
 - `TripOn` — hello _(2026-10-26)_
 - `voting-app` — jai _(2026-10-26)_
+- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-26)_
 <!--END_SECTION:activity-->
