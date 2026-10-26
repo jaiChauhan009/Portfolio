@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MutliPlayerGame` — My MESSAGE _(2026-10-25)_
 - `Trip-Booking` — jai _(2026-10-25)_
 - `Book_Quotes_Hub` — jai _(2026-10-25)_
 - `uberBooking` — Initial commit _(2026-10-25)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-10-26)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-26)_
 - `voting_back` — Initial commit _(2026-10-26)_
+- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-26)_
 <!--END_SECTION:activity-->
