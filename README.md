@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting-app` — jai _(2026-10-26)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-26)_
 - `voting_back` — Initial commit _(2026-10-26)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-27)_
 - `flow` — Initial commit _(2026-10-27)_
 - `voting_back` — Initial commit _(2026-10-27)_
+- `voting-app` — jai _(2026-10-27)_
 <!--END_SECTION:activity-->
