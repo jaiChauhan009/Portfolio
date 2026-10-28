@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-10-26)_
 - `MutliPlayerGame` — My MESSAGE _(2026-10-26)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-27)_
 - `flow` — Initial commit _(2026-10-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planner` — v0.0.1 _(2026-10-27)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-28)_
 - `Trip-Booking` — jai _(2026-10-28)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-28)_
 <!--END_SECTION:activity-->
