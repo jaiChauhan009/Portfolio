@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `flow` — Initial commit _(2026-10-27)_
 - `voting_back` — Initial commit _(2026-10-27)_
 - `voting-app` — jai _(2026-10-27)_
 - `Portfolio` — docs: update activity — MutliPlayerGame _(2026-10-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-28)_
 - `Book_Quotes_Hub` — jai _(2026-10-28)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-28)_
+- `ChitChat-app` — jai _(2026-10-28)_
 <!--END_SECTION:activity-->
