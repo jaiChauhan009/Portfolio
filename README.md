@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-10-27)_
 - `voting-app` — jai _(2026-10-27)_
 - `Portfolio` — docs: update activity — MutliPlayerGame _(2026-10-27)_
 - `Trip_Planner` — v0.0.1 _(2026-10-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Book_Quotes_Hub` — jai _(2026-10-28)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-10-28)_
 - `ChitChat-app` — jai _(2026-10-28)_
+- `MakePayment` — My payment Applicaiton _(2026-10-28)_
 <!--END_SECTION:activity-->
