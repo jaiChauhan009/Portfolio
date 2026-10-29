@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-10-28)_
 - `Trip-Booking` — jai _(2026-10-28)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-28)_
 - `Book_Quotes_Hub` — jai _(2026-10-28)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-10-28)_
 - `book-store` — jai _(2026-10-28)_
 - `Voice-translator` — jai _(2026-10-28)_
+- `mx-lite-wallet` — 0.0.1 _(2026-10-29)_
 <!--END_SECTION:activity-->
