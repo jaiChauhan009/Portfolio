@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-10-29)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-10-29)_
 - `Trip-Booking` — jai _(2026-10-29)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `OnlineTicToe` — TicToe Application _(2026-10-30)_
 - `Bet-to-get` — jai _(2026-10-30)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-30)_
+- `make-my-trip` — jai _(2026-10-30)_
 <!--END_SECTION:activity-->
