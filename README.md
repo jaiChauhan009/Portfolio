@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `book-store` — jai _(2026-10-28)_
 - `Voice-translator` — jai _(2026-10-28)_
 - `mx-lite-wallet` — 0.0.1 _(2026-10-29)_
 - `book-store` — jai _(2026-10-29)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip-Booking` — jai _(2026-10-29)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-29)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-30)_
+- `Portfolio` — docs: update activity — docintel _(2026-10-30)_
 <!--END_SECTION:activity-->
