@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-10-29)_
 - `Trip-Booking` — jai _(2026-10-29)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-29)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-10-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Bet-to-get` — jai _(2026-10-30)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-10-30)_
 - `make-my-trip` — jai _(2026-10-30)_
+- `flow` — Initial commit _(2026-10-30)_
 <!--END_SECTION:activity-->
