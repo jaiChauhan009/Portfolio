@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — docintel _(2026-10-30)_
 - `go-redis` — jai _(2026-10-30)_
 - `OnlineTicToe` — TicToe Application _(2026-10-30)_
 - `Bet-to-get` — jai _(2026-10-30)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting-app` — jai _(2026-10-30)_
 - `Trip_Planer` — jai _(2026-10-31)_
 - `runrealm` — changes _(2026-10-31)_
+- `fitsphere` — changes _(2026-10-31)_
 <!--END_SECTION:activity-->
