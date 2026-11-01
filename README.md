@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-31)_
 - `fitsphere` — changes _(2026-11-01)_
 - `book-store` — jai _(2026-11-01)_
 - `go-redis` — jai _(2026-11-01)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MakePayment` — My payment Applicaiton _(2026-11-01)_
 - `ChitChat-app` — jai _(2026-11-01)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-11-01)_
+- `uberBooking` — Initial commit _(2026-11-01)_
 <!--END_SECTION:activity-->
