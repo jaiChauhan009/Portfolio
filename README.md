@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-10-31)_
 - `Weather_Application` — 0.0.1 _(2026-10-31)_
 - `Book_Quotes_Hub` — jai _(2026-10-31)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-10-31)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Chat-app` — jai _(2026-11-01)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-01)_
 - `movie-hub` — jai _(2026-11-01)_
+- `MakePayment` — My payment Applicaiton _(2026-11-01)_
 <!--END_SECTION:activity-->
