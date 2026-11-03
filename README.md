@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Book_Quotes_Hub` — jai _(2026-11-03)_
 - `atlas_project` — gitignore: cron job logs _(2026-11-03)_
 - `uberBooking` — Initial commit _(2026-11-03)_
 - `OnlineTicToe` — TicToe Application _(2026-11-03)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-11-03)_
 - `runrealm` — changes _(2026-11-03)_
 - `Voice-translator` — jai _(2026-11-03)_
+- `go-framework` — jai _(2026-11-03)_
 <!--END_SECTION:activity-->
