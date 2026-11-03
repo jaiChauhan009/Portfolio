@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Chat-app` — jai _(2026-11-01)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-01)_
 - `movie-hub` — jai _(2026-11-01)_
 - `MakePayment` — My payment Applicaiton _(2026-11-01)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Book_Quotes_Hub` — jai _(2026-11-03)_
 - `atlas_project` — gitignore: cron job logs _(2026-11-03)_
 - `uberBooking` — Initial commit _(2026-11-03)_
+- `OnlineTicToe` — TicToe Application _(2026-11-03)_
 <!--END_SECTION:activity-->
