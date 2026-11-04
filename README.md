@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-11-03)_
 - `TaskTracker` — 0.0.1 _(2026-11-03)_
 - `book-store` — jai _(2026-11-03)_
 - `mx-lite-wallet` — 0.0.1 _(2026-11-03)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-03)_
 - `wallmart-data-anlysis` — jai _(2026-11-04)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-04)_
+- `dateapp` — Initial commit _(2026-11-04)_
 <!--END_SECTION:activity-->
