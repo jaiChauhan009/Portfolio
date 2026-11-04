@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-03)_
 - `wallmart-data-anlysis` — jai _(2026-11-04)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-04)_
 - `dateapp` — Initial commit _(2026-11-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-04)_
 - `TripOn` — hello _(2026-11-04)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-04)_
+- `voting_server` — jai _(2026-11-04)_
 <!--END_SECTION:activity-->
