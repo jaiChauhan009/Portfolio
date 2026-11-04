@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-11-03)_
 - `go-framework` — jai _(2026-11-03)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-03)_
 - `wallmart-data-anlysis` — jai _(2026-11-04)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MutliPlayerGame` — My MESSAGE _(2026-11-04)_
 - `Trip_Planner` — v0.0.1 _(2026-11-04)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-04)_
+- `TripOn` — hello _(2026-11-04)_
 <!--END_SECTION:activity-->
