@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-04)_
 - `voting_server` — jai _(2026-11-04)_
 - `movie-hub` — jai _(2026-11-05)_
 - `voting_back` — Initial commit _(2026-11-05)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Weather_Application` — 0.0.1 _(2026-11-05)_
 - `Chat-app` — jai _(2026-11-05)_
 - `go-framework` — jai _(2026-11-06)_
+- `mx-lite-wallet` — 0.0.1 _(2026-11-06)_
 <!--END_SECTION:activity-->
