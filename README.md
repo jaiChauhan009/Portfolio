@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-11-05)_
 - `go-redis` — jai _(2026-11-05)_
 - `MutliPlayerGame` — My MESSAGE _(2026-11-05)_
 - `flow` — Initial commit _(2026-11-05)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-11-06)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-06)_
 - `Trip_Planner` — v0.0.1 _(2026-11-06)_
+- `Trip_Planer` — jai _(2026-11-06)_
 <!--END_SECTION:activity-->
