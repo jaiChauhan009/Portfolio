@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planner` — v0.0.1 _(2026-11-06)_
 - `Trip_Planer` — jai _(2026-11-06)_
 - `fitsphere` — changes _(2026-11-06)_
 - `voting_server` — jai _(2026-11-06)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-11-07)_
 - `MakePayment` — My payment Applicaiton _(2026-11-07)_
 - `ChitChat-app` — jai _(2026-11-07)_
+- `dateapp` — Initial commit _(2026-11-07)_
 <!--END_SECTION:activity-->
