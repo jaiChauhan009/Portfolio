@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-11-06)_
 - `voting_server` — jai _(2026-11-06)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-07)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChitChat-app` — jai _(2026-11-07)_
 - `dateapp` — Initial commit _(2026-11-07)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-07)_
+- `TripOn` — hello _(2026-11-08)_
 <!--END_SECTION:activity-->
