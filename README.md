@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `MakePayment` — My payment Applicaiton _(2026-11-07)_
 - `ChitChat-app` — jai _(2026-11-07)_
 - `dateapp` — Initial commit _(2026-11-07)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-07)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_server` — jai _(2026-11-08)_
 - `OnlineTicToe` — TicToe Application _(2026-11-08)_
 - `Portfolio` — docs: update activity — Aggroso_assesment _(2026-11-08)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-11-08)_
 <!--END_SECTION:activity-->
