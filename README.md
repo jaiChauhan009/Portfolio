@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-10)_
 - `Trip-Booking` — jai _(2026-11-10)_
 - `go-framework` — jai _(2026-11-10)_
 - `voting_back` — Initial commit _(2026-11-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Book_Quotes_Hub` — jai _(2026-11-10)_
 - `movie-hub` — jai _(2026-11-10)_
 - `dateapp` — Initial commit _(2026-11-10)_
+- `MakePayment` — My payment Applicaiton _(2026-11-10)_
 <!--END_SECTION:activity-->
