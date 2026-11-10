@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-11-08)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-08)_
 - `voting_server` — jai _(2026-11-08)_
 - `OnlineTicToe` — TicToe Application _(2026-11-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `movie-hub` — jai _(2026-11-10)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-10)_
 - `fitsphere` — changes _(2026-11-10)_
+- `go-redis` — jai _(2026-11-10)_
 <!--END_SECTION:activity-->
