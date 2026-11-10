@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_server` — jai _(2026-11-08)_
 - `OnlineTicToe` — TicToe Application _(2026-11-08)_
 - `Portfolio` — docs: update activity — Aggroso_assesment _(2026-11-08)_
 - `jaiChauhan009` — Revise README with updated profile and projects _(2026-11-08)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `fitsphere` — changes _(2026-11-10)_
 - `go-redis` — jai _(2026-11-10)_
 - `voting-app` — jai _(2026-11-10)_
+- `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-10)_
 <!--END_SECTION:activity-->
