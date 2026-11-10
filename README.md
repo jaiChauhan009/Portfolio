@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `asset-checkout-service` — Remove recording note from known gaps _(2026-11-10)_
 - `fitsphere` — changes _(2026-11-10)_
 - `go-redis` — jai _(2026-11-10)_
 - `voting-app` — jai _(2026-11-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_back` — Initial commit _(2026-11-10)_
 - `Trip_Planner` — v0.0.1 _(2026-11-10)_
 - `flow` — Initial commit _(2026-11-10)_
+- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-10)_
 <!--END_SECTION:activity-->
