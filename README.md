@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-11-10)_
 - `dateapp` — Initial commit _(2026-11-10)_
 - `MakePayment` — My payment Applicaiton _(2026-11-10)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-12)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-11-12)_
 - `Bet-to-get` — jai _(2026-11-12)_
 - `runrealm` — changes _(2026-11-12)_
+- `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-12)_
 <!--END_SECTION:activity-->
