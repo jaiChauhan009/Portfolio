@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-framework` — jai _(2026-11-10)_
 - `voting_back` — Initial commit _(2026-11-10)_
 - `Trip_Planner` — v0.0.1 _(2026-11-10)_
 - `flow` — Initial commit _(2026-11-10)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-11-10)_
 - `MakePayment` — My payment Applicaiton _(2026-11-10)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-12)_
+- `atlas_project` — gitignore: cron job logs _(2026-11-12)_
 <!--END_SECTION:activity-->
