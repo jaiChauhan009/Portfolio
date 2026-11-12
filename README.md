@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `atlas_project` — gitignore: cron job logs _(2026-11-12)_
 - `MakePayment` — My payment Applicaiton _(2026-11-12)_
 - `flow` — Initial commit _(2026-11-12)_
 - `mx-lite-wallet` — 0.0.1 _(2026-11-12)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `go-framework` — jai _(2026-11-12)_
 - `Trip_Planer` — jai _(2026-11-12)_
 - `Book_Quotes_Hub` — jai _(2026-11-12)_
+- `make-my-trip` — jai _(2026-11-12)_
 <!--END_SECTION:activity-->
