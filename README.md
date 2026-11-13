@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `runrealm` — changes _(2026-11-12)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-12)_
 - `go-framework` — jai _(2026-11-12)_
 - `Trip_Planer` — jai _(2026-11-12)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `make-my-trip` — jai _(2026-11-13)_
 - `Trip_Planner` — v0.0.1 _(2026-11-13)_
 - `voting-app` — jai _(2026-11-13)_
+- `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-11-13)_
 <!--END_SECTION:activity-->
