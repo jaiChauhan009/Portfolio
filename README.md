@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Trip_Planner` — v0.0.1 _(2026-11-13)_
 - `voting-app` — jai _(2026-11-13)_
 - `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-11-13)_
 - `Weather_Application` — 0.0.1 _(2026-11-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Voice-translator` — jai _(2026-11-13)_
 - `Chat-app` — jai _(2026-11-14)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-14)_
+- `Trip_Planer` — jai _(2026-11-14)_
 <!--END_SECTION:activity-->
