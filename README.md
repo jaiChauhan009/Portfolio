@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-11-13)_
 - `Weather_Application` — 0.0.1 _(2026-11-13)_
 - `ChitChat-app` — jai _(2026-11-13)_
 - `dateapp` — Initial commit _(2026-11-13)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-14)_
 - `Trip_Planer` — jai _(2026-11-14)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-14)_
+- `TripOn` — hello _(2026-11-14)_
 <!--END_SECTION:activity-->
