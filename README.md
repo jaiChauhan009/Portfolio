@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Chat-app` — jai _(2026-11-14)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-14)_
 - `Trip_Planer` — jai _(2026-11-14)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-14)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-15)_
 - `ChitChat-app` — jai _(2026-11-15)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-15)_
+- `MakePayment` — My payment Applicaiton _(2026-11-15)_
 <!--END_SECTION:activity-->
