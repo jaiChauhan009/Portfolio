@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChitChat-app` — jai _(2026-11-15)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-15)_
 - `MakePayment` — My payment Applicaiton _(2026-11-15)_
 - `Bet-to-get` — jai _(2026-11-15)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-17)_
 - `voting_back` — Initial commit _(2026-11-17)_
 - `dateapp` — Initial commit _(2026-11-17)_
+- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-17)_
 <!--END_SECTION:activity-->
