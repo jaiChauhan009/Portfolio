@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `jaiChauhan009` — Revise README with updated profile and projects _(2026-11-17)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-17)_
 - `voting_back` — Initial commit _(2026-11-17)_
 - `dateapp` — Initial commit _(2026-11-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `uberBooking` — Initial commit _(2026-11-17)_
 - `runrealm` — changes _(2026-11-17)_
 - `Portfolio` — docs: update activity — runrealm _(2026-11-18)_
+- `voting_server` — jai _(2026-11-18)_
 <!--END_SECTION:activity-->
