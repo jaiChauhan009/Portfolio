@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Bet-to-get` — jai _(2026-11-17)_
 - `wallmart-data-anlysis` — jai _(2026-11-17)_
 - `uberBooking` — Initial commit _(2026-11-17)_
 - `runrealm` — changes _(2026-11-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-18)_
 - `TripOn` — hello _(2026-11-18)_
 - `MakePayment` — My payment Applicaiton _(2026-11-18)_
+- `wallmart-data-anlysis` — jai _(2026-11-18)_
 <!--END_SECTION:activity-->
