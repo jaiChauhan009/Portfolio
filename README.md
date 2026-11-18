@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-11-17)_
 - `dateapp` — Initial commit _(2026-11-17)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-17)_
 - `Bet-to-get` — jai _(2026-11-17)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — runrealm _(2026-11-18)_
 - `voting_server` — jai _(2026-11-18)_
 - `book-store` — jai _(2026-11-18)_
+- `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-18)_
 <!--END_SECTION:activity-->
