@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `book-store` — jai _(2026-11-18)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-18)_
 - `TripOn` — hello _(2026-11-18)_
 - `MakePayment` — My payment Applicaiton _(2026-11-18)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-19)_
 - `Weather_Application` — 0.0.1 _(2026-11-19)_
 - `dateapp` — Initial commit _(2026-11-19)_
+- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-19)_
 <!--END_SECTION:activity-->
