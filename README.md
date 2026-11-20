@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-11-18)_
 - `MakePayment` — My payment Applicaiton _(2026-11-18)_
 - `wallmart-data-anlysis` — jai _(2026-11-18)_
 - `uberBooking` — Initial commit _(2026-11-19)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-11-19)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-19)_
 - `Portfolio` — docs: update activity — wallmart-data-anlysis _(2026-11-19)_
+- `dateapp` — Initial commit _(2026-11-20)_
 <!--END_SECTION:activity-->
