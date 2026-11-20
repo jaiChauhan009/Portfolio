@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `voting_back` — Initial commit _(2026-11-20)_
 - `MutliPlayerGame` — My MESSAGE _(2026-11-20)_
 - `TaskTracker` — 0.0.1 _(2026-11-20)_
 - `make-my-trip` — jai _(2026-11-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `mx-lite-wallet` — 0.0.1 _(2026-11-20)_
 - `Portfolio` — docs: update activity — voting-app _(2026-11-20)_
 - `OnlineTicToe` — TicToe Application _(2026-11-20)_
+- `uberBooking` — Initial commit _(2026-11-20)_
 <!--END_SECTION:activity-->
