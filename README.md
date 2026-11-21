@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `make-my-trip` — jai _(2026-11-20)_
 - `voting-app` — jai _(2026-11-20)_
 - `Bet-to-get` — jai _(2026-11-20)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `uberBooking` — Initial commit _(2026-11-20)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-21)_
 - `voting_server` — jai _(2026-11-21)_
+- `MultiPlayer_Game` — v0.0.1 _(2026-11-21)_
 <!--END_SECTION:activity-->
