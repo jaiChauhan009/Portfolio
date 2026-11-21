@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `OnlineTicToe` — TicToe Application _(2026-11-20)_
 - `uberBooking` — Initial commit _(2026-11-20)_
 - `roomscan` — Deploy script: prune old Docker images and build cache after each build (a full  _(2026-11-21)_
 - `voting_server` — jai _(2026-11-21)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `voting_back` — Initial commit _(2026-11-21)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-21)_
 - `TripOn` — hello _(2026-11-21)_
+- `ChitChat-app` — jai _(2026-11-21)_
 <!--END_SECTION:activity-->
