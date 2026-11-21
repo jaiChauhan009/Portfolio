@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-20)_
 - `mx-lite-wallet` — 0.0.1 _(2026-11-20)_
 - `Portfolio` — docs: update activity — voting-app _(2026-11-20)_
 - `OnlineTicToe` — TicToe Application _(2026-11-20)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MultiPlayer_Game` — v0.0.1 _(2026-11-21)_
 - `book-store` — jai _(2026-11-21)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-21)_
+- `voting_back` — Initial commit _(2026-11-21)_
 <!--END_SECTION:activity-->
