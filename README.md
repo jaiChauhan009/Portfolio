@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `TripOn` — hello _(2026-11-21)_
 - `ChitChat-app` — jai _(2026-11-21)_
 - `Chat-app` — jai _(2026-11-22)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-22)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-22)_
 - `MakePayment` — My payment Applicaiton _(2026-11-22)_
 - `OnlineTicToe` — TicToe Application _(2026-11-22)_
+- `movie-hub` — jai _(2026-11-22)_
 <!--END_SECTION:activity-->
