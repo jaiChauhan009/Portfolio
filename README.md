@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `ChitChat-app` — jai _(2026-11-21)_
 - `Chat-app` — jai _(2026-11-22)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-22)_
 - `mx-lite-wallet` — 0.0.1 _(2026-11-22)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `MakePayment` — My payment Applicaiton _(2026-11-22)_
 - `OnlineTicToe` — TicToe Application _(2026-11-22)_
 - `movie-hub` — jai _(2026-11-22)_
+- `Weather_Application` — 0.0.1 _(2026-11-24)_
 <!--END_SECTION:activity-->
