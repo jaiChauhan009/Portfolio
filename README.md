@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Voice-translator` — jai _(2026-11-24)_
 - `make-my-trip` — jai _(2026-11-24)_
 - `uberBooking` — Initial commit _(2026-11-24)_
 - `go-framework` — jai _(2026-11-24)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Portfolio` — docs: update activity — go-framework _(2026-11-25)_
 - `atlas_project` — gitignore: cron job logs _(2026-11-25)_
 - `Book_Quotes_Hub` — jai _(2026-11-25)_
+- `go-framework` — jai _(2026-11-25)_
 <!--END_SECTION:activity-->
