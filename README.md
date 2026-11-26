@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `go-framework` — jai _(2026-11-25)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-11-25)_
 - `runrealm` — changes _(2026-11-25)_
 - `dateapp` — Initial commit _(2026-11-25)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-26)_
 - `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-26)_
 - `Chat-app` — jai _(2026-11-26)_
+- `TripOn` — hello _(2026-11-26)_
 <!--END_SECTION:activity-->
