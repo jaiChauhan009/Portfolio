@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `java_test` — Merge pull request #1 from jaiChauhan009/jai/dev _(2026-11-26)_
 - `Chat-app` — jai _(2026-11-26)_
 - `TripOn` — hello _(2026-11-26)_
 - `wallmart-data-anlysis` — jai _(2026-11-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `dateapp` — Initial commit _(2026-11-27)_
 - `Trip_Planner` — v0.0.1 _(2026-11-27)_
 - `TripOn` — hello _(2026-11-27)_
+- `movie-hub` — jai _(2026-11-27)_
 <!--END_SECTION:activity-->
