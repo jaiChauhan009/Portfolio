@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `fitsphere` — changes _(2026-11-26)_
 - `book-store` — jai _(2026-11-26)_
 - `MultiPlayer_Game` — v0.0.1 _(2026-11-26)_
 - `ChatApplication` — Merge branch 'main' of https://github.com/jaiChauhan009/ChatApplication _(2026-11-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `wallmart-data-anlysis` — jai _(2026-11-26)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-26)_
 - `trackit_privacy_policy` — Publish TrackIt privacy policy page _(2026-11-26)_
+- `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-27)_
 <!--END_SECTION:activity-->
