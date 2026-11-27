@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `Chat-app` — jai _(2026-11-26)_
 - `TripOn` — hello _(2026-11-26)_
 - `wallmart-data-anlysis` — jai _(2026-11-26)_
 - `asset-checkout-service` — Remove recording note from known gaps _(2026-11-26)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Trip_Planner` — v0.0.1 _(2026-11-27)_
 - `TripOn` — hello _(2026-11-27)_
 - `movie-hub` — jai _(2026-11-27)_
+- `Bet-to-get` — jai _(2026-11-27)_
 <!--END_SECTION:activity-->
