@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `movie-hub` — jai _(2026-11-27)_
 - `Bet-to-get` — jai _(2026-11-27)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-27)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-28)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `runrealm` — changes _(2026-11-28)_
 - `TripOn` — hello _(2026-11-28)_
 - `uberBooking` — Initial commit _(2026-11-28)_
+- `jaiChauhan009` — Revise README with updated profile and projects _(2026-11-28)_
 <!--END_SECTION:activity-->
