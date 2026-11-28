@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `dateapp` — Initial commit _(2026-11-27)_
 - `Trip_Planner` — v0.0.1 _(2026-11-27)_
 - `TripOn` — hello _(2026-11-27)_
 - `movie-hub` — jai _(2026-11-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `ChitChat-app` — jai _(2026-11-28)_
 - `movie-hub` — jai _(2026-11-28)_
 - `docintel` — Initial commit: DocIntel document intelligence platform _(2026-11-28)_
+- `runrealm` — changes _(2026-11-28)_
 <!--END_SECTION:activity-->
