@@ -56,7 +56,6 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-- `asset-checkout-service` — Remove recording note from known gaps _(2026-11-26)_
 - `trackit_privacy_policy` — Publish TrackIt privacy policy page _(2026-11-26)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-27)_
 - `dateapp` — Initial commit _(2026-11-27)_
@@ -66,4 +65,5 @@ I’m a final-year CSE student from NIT Kurukshetra with hands-on experience in 
 - `Bet-to-get` — jai _(2026-11-27)_
 - `runrealm-lite` — Merge GitHub repo init (keep project tree) _(2026-11-27)_
 - `Aggroso_assesment` — docs: add prominent Reviewer Remarks & Submission Notes section to README _(2026-11-28)_
+- `ChitChat-app` — jai _(2026-11-28)_
 <!--END_SECTION:activity-->
